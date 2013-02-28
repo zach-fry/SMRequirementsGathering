@@ -139,6 +139,13 @@ def writeCSV(user_tagdict_map, outpath='.'):
         f.write('%s,%s\n'%(user,','.join([str(x) for x in counts])))
     f.close()
 
+'''
+This Function writes a {tag : {tag:freq}} dict to a JSON file
+that gets rendered as a Hashtag X Hashtag Matrix
+ - hashtag_link_counts comes from calling loadHashtagCounts
+ - hashtag_list is list of hashtags that form the rows and columns of the matrix
+ - outpath is dir that file will be written to
+'''
 def writeSymmetricCoOccurenceJSON(hashtag_link_counts, hashtag_list=[], outpath='.'):
     if len(hashtag_list) == 0:
         hashtag_list = hashtag_link_counts.keys()
