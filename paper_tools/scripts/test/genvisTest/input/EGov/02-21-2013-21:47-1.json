@@ -1,0 +1,87 @@
+{
+    "completed_in": 0.012999999999999999, 
+    "max_id_str": "304708569863958528", 
+    "since_id_str": "304708524011839488", 
+    "refresh_url": "?since_id=304708569863958528&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2386404347/0l95hcbuboyuyacj1ae7_normal.jpeg", 
+            "from_user_id_str": "82007271", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "text": "I'd like your thoughts on changing the #GovGirl video format: http://t.co/x7LaEvs4Uu #gov20 #egov #localgov", 
+            "from_user_name": "Kristy Fifelski", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2386404347/0l95hcbuboyuyacj1ae7_normal.jpeg", 
+            "id": 304708569863958528, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            39, 
+                            47
+                        ], 
+                        "text": "GovGirl"
+                    }, 
+                    {
+                        "indices": [
+                            85, 
+                            91
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            92, 
+                            97
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            98, 
+                            107
+                        ], 
+                        "text": "localgov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/x7LaEvs4Uu", 
+                        "indices": [
+                            62, 
+                            84
+                        ], 
+                        "expanded_url": "http://on.fb.me/11Ya9kt", 
+                        "display_url": "on.fb.me/11Ya9kt"
+                    }
+                ]
+            }, 
+            "id_str": "304708569863958528", 
+            "from_user": "kristyfifelski", 
+            "from_user_id": 82007271, 
+            "to_user_id": 0, 
+            "geo": {
+                "type": "Point", 
+                "coordinates": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "created_at": "Thu, 21 Feb 2013 21:45:58 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304708524011839488, 
+    "results_per_page": 100, 
+    "time": "21:47", 
+    "date": "02-21-2013", 
+    "query": "%23EGov", 
+    "max_id": 304708569863958528, 
+    "page": 1
+}

@@ -1,0 +1,89 @@
+{
+    "completed_in": 0.01, 
+    "max_id_str": "304728058483580928", 
+    "since_id_str": "304727902723928064", 
+    "refresh_url": "?since_id=304728058483580928&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3158414911/224995755dadf9f83d992c18f3d2bf26_normal.jpeg", 
+            "from_user_id_str": "1117817551", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "text": "RT @iheartcities: Are there any #cities out there who have directors, city managers or senior staff on social media? #SMgov #egov #opengov #gov20", 
+            "from_user_name": "MAC", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/3158414911/224995755dadf9f83d992c18f3d2bf26_normal.jpeg", 
+            "id": 304728058483580928, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 48070362, 
+                        "indices": [
+                            3, 
+                            16
+                        ], 
+                        "id_str": "48070362", 
+                        "screen_name": "iheartcities", 
+                        "name": "Amanda Mitchell"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            32, 
+                            39
+                        ], 
+                        "text": "cities"
+                    }, 
+                    {
+                        "indices": [
+                            117, 
+                            123
+                        ], 
+                        "text": "SMgov"
+                    }, 
+                    {
+                        "indices": [
+                            124, 
+                            129
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            130, 
+                            138
+                        ], 
+                        "text": "opengov"
+                    }, 
+                    {
+                        "indices": [
+                            139, 
+                            145
+                        ], 
+                        "text": "gov20"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "id_str": "304728058483580928", 
+            "from_user": "MACMuni", 
+            "from_user_id": 1117817551, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 21 Feb 2013 23:03:25 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304727902723928064, 
+    "results_per_page": 100, 
+    "time": "23:04", 
+    "date": "02-21-2013", 
+    "query": "%23EGov", 
+    "max_id": 304728058483580928, 
+    "page": 1
+}

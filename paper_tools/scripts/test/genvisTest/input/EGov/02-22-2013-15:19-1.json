@@ -1,0 +1,74 @@
+{
+    "completed_in": 0.045999999999999999, 
+    "max_id_str": "304973271999340545", 
+    "since_id_str": "304973267008102401", 
+    "refresh_url": "?since_id=304973271999340545&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Revision 10580: [Plone + Portal] Adding identifier and class on content titles and re... http://t.co/ly2YG6rfw2 #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 304973271999340545, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            122, 
+                            130
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/ly2YG6rfw2", 
+                        "indices": [
+                            99, 
+                            121
+                        ], 
+                        "expanded_url": "http://bit.ly/UQCSnl", 
+                        "display_url": "bit.ly/UQCSnl"
+                    }
+                ]
+            }, 
+            "id_str": "304973271999340545", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 15:17:48 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304973267008102401, 
+    "results_per_page": 100, 
+    "time": "15:19", 
+    "date": "02-22-2013", 
+    "query": "%23EGov", 
+    "max_id": 304973271999340545, 
+    "page": 1
+}

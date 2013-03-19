@@ -1,0 +1,63 @@
+{
+    "completed_in": 0.053999999999999999, 
+    "max_id_str": "305390350640488449", 
+    "since_id_str": "305390266184003584", 
+    "refresh_url": "?since_id=305390350640488449&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": "William Eggers", 
+            "to_user_id_str": "51196532", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1725143333/image_normal.jpg", 
+            "from_user_id_str": "19946588", 
+            "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "text": "@wdeggers What's your take on Gov2.0 title still used today? Evolved to 3.0, MobileGov or just #eGov...?", 
+            "from_user_name": "Gabriela Dow", 
+            "in_reply_to_status_id_str": "305382415361253376", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1725143333/image_normal.jpg", 
+            "id": 305390350640488449, 
+            "to_user": "wdeggers", 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 51196532, 
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "id_str": "51196532", 
+                        "screen_name": "wdeggers", 
+                        "name": "William Eggers"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            95, 
+                            100
+                        ], 
+                        "text": "eGov"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "in_reply_to_status_id": 305382415361253376, 
+            "id_str": "305390350640488449", 
+            "from_user": "GabrielaDow", 
+            "from_user_id": 19946588, 
+            "to_user_id": 51196532, 
+            "geo": null, 
+            "created_at": "Sat, 23 Feb 2013 18:55:08 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 305390266184003584, 
+    "results_per_page": 100, 
+    "time": "18:56", 
+    "date": "02-23-2013", 
+    "query": "%23EGov", 
+    "max_id": 305390350640488449, 
+    "page": 1
+}

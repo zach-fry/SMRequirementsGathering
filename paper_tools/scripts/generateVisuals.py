@@ -1,6 +1,8 @@
 '''
 @author Zach Fry (fryz)
 @date 2/21/2013
+
+example located at test/genvisTest/example.py
 '''
 
 import os
@@ -61,7 +63,7 @@ def loadHashtagCounts(hashtag_dirs, hashtag_counts, hashtag_link_counts, hashtag
                             else:
                                 hashtag_counts[tag] = 2
                     #pass and empty dict for hashtag_link_counts if you want bigram tag occurences
-                    if hashtag_links_counts is not None:
+                    if hashtag_link_counts is not None:
                         for i,j in combinations(tags, 2):
                             if i in hashtag_link_counts:
                                 if j in hashtag_link_counts[i]:
@@ -123,12 +125,12 @@ This Function writes a {user : {tag:freq}} dict to a csv file named usertags.csv
  - outpath is dir that file will be written to
 '''
 def writeCSV(user_tagdict_map, outpath='.'):
-    f = open('%s/usertags.csv'%outpath, 'w')
-    f.write('user,%s\n'%(','.join(hashtag_list)))
-
     hashtag_list = []
     for user,tagdict in user_tagdict_map.iteritems():
         hashtag_list.extend([x for x in tagdict.keys() if x not in hashtag_list])
+
+    f = open('%s/usertags.csv'%outpath, 'w')
+    f.write('user,%s\n'%(','.join(hashtag_list)))
 
     for user in user_tagdict_map.keys():
         counts = []
@@ -137,6 +139,48 @@ def writeCSV(user_tagdict_map, outpath='.'):
             else: counts.append(0)
     
         f.write('%s,%s\n'%(user,','.join([str(x) for x in counts])))
+    f.close()
+
+'''
+This function creates a JSON file for displaying a wordcloud of hashtags for d3.js
+'''
+def writeHashtagWordCloudJSON(hashtag_counts, hashtag_list=[], outpath='.'):
+    jobj = []
+    if len(hashtag_list) > 0:
+        for hashtag in hashtag_list:
+            td = {}
+            td["name"] = hashtag
+            td["value"] = hashtag_counts[hashtag]
+            jobj.append(td)
+    else:
+        for hashtag, freq in hashtag_counts.iteritems():
+            td = {}
+            td["name"] = hashtag
+            td["value"] = freq
+            jobj.append(td)
+    f = open('%s/hashtag_wordcloud.json'%outpath, 'w')
+    json.dump(jobj, f)
+    f.close()
+ 
+'''
+This function creates a JSON file for displaying a wordcloud of users for d3.js
+'''
+def writeUserWordCloudJSON(user_tagdict_map, user_list=[], outpath='.'):
+    jobj = []
+    if len(user_list) > 0:
+        for user in user_list:
+            td = {}
+            td["name"] = user
+            td["value"] = sum( user_tagdict_map[user].values() )
+            jobj.append(td)
+    else:
+        for user,tagdict in user_tagdict_map.iteritems():
+            td = {}
+            td["name"] = user
+            td["value"] = sum( tagdict.values() )
+            jobj.append(td)
+    f = open('%s/user_wordcloud.json'%outpath, 'w')
+    json.dump(jobj, f)
     f.close()
 
 '''
@@ -149,6 +193,9 @@ that gets rendered as a Hashtag X Hashtag Matrix
 def writeSymmetricCoOccurenceJSON(hashtag_link_counts, hashtag_list=[], outpath='.'):
     if len(hashtag_list) == 0:
         hashtag_list = hashtag_link_counts.keys()
+        for tag in hashtag_link_counts.keys():
+            for tag2 in hashtag_link_counts[tag].keys():
+                if tag2 not in hashtag_list: hashtag_list.append(tag2)
 
     d = {'nodes':[], 'links':[]}
     for tag in hashtag_list:
@@ -158,15 +205,18 @@ def writeSymmetricCoOccurenceJSON(hashtag_link_counts, hashtag_list=[], outpath=
         d['nodes'].append(td)
 
     for i,tag1 in enumerate(hashtag_list):
-        for tag2,freq in hashtag_link_counts[tag1].iteritems():
-            j = hashtag_list.index(tag2)
-            td = {}
-            td['source'] = i
-            td['target'] = j
-            td['value'] = user_tagdict_map[user][tag]
-            d['links'].append(td)
+        try:
+            for tag2,freq in hashtag_link_counts[tag1].iteritems():
+                j = hashtag_list.index(tag2)
+                td = {}
+                td['source'] = i
+                td['target'] = j
+                td['value'] = freq
+                d['links'].append(td)
+        except KeyError:
+            pass
 
-    f = open('%s/co_tag_user.json'%outpath, 'w')
+    f = open('%s/co_tag.json'%outpath, 'w')
     json.dump(d, f)
     f.close()   
 
@@ -194,7 +244,8 @@ def writeAsymmetricCoOccurenceJSON(user_tagdict_map, hashtag_list, user_list, ou
 
     for i,tag in enumerate(hashtag_list):
         for j,user in enumerate(user_list):
-            if tag not in user_tagdict_map[user]: pass
+            if user not in user_tagdict_map: pass
+            elif tag not in user_tagdict_map[user]: pass
             else:
                 td = {}
                 td['source'] = i

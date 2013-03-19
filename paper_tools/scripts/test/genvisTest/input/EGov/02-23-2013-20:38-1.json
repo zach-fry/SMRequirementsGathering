@@ -1,0 +1,71 @@
+{
+    "completed_in": 0.028000000000000001, 
+    "max_id_str": "305416066471976960", 
+    "since_id_str": "305415933713866752", 
+    "refresh_url": "?since_id=305416066471976960&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/629710294/images_normal.jpg", 
+            "from_user_id_str": "74390465", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "RT @gabrieladow: @wdeggers What's your take on Gov2.0 title still used today? Evolved to 3.0, MobileGov or just #eGov...?", 
+            "from_user_name": "Gov20LA", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/629710294/images_normal.jpg", 
+            "id": 305416066471976960, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 19946588, 
+                        "indices": [
+                            3, 
+                            15
+                        ], 
+                        "id_str": "19946588", 
+                        "screen_name": "GabrielaDow", 
+                        "name": "Gabriela Dow"
+                    }, 
+                    {
+                        "id": 51196532, 
+                        "indices": [
+                            17, 
+                            26
+                        ], 
+                        "id_str": "51196532", 
+                        "screen_name": "wdeggers", 
+                        "name": "William Eggers"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            112, 
+                            117
+                        ], 
+                        "text": "eGov"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "id_str": "305416066471976960", 
+            "from_user": "Gov20LA", 
+            "from_user_id": 74390465, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sat, 23 Feb 2013 20:37:19 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 305415933713866752, 
+    "results_per_page": 100, 
+    "time": "20:38", 
+    "date": "02-23-2013", 
+    "query": "%23EGov", 
+    "max_id": 305416066471976960, 
+    "page": 1
+}

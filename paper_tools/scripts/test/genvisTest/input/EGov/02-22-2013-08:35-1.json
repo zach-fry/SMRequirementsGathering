@@ -1,0 +1,95 @@
+{
+    "completed_in": 0.056000000000000001, 
+    "max_id_str": "304871735835111424", 
+    "since_id_str": "304871592603828224", 
+    "refresh_url": "?since_id=304871735835111424&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1281050326/n74226139268_1564281_1967278_normal.jpg", 
+            "from_user_id_str": "27584385", 
+            "source": "&lt;a href=&quot;http://twitter.com/tweetbutton&quot;&gt;Tweet Button&lt;/a&gt;", 
+            "text": "Kiosk for Online Vehicle Registry Installed in Australia - http://t.co/CJNEgFhgVl @JuliaGillard  @TMRQld #DigitalInclusion #eGov #FutureGov", 
+            "from_user_name": "FutureGov Magazine", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1281050326/n74226139268_1564281_1967278_normal.jpg", 
+            "id": 304871735835111424, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 85436197, 
+                        "indices": [
+                            82, 
+                            95
+                        ], 
+                        "id_str": "85436197", 
+                        "screen_name": "JuliaGillard", 
+                        "name": "Julia Gillard"
+                    }, 
+                    {
+                        "id": 275294751, 
+                        "indices": [
+                            97, 
+                            104
+                        ], 
+                        "id_str": "275294751", 
+                        "screen_name": "TMRQld", 
+                        "name": "Transport Main Roads"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            105, 
+                            122
+                        ], 
+                        "text": "DigitalInclusion"
+                    }, 
+                    {
+                        "indices": [
+                            123, 
+                            128
+                        ], 
+                        "text": "eGov"
+                    }, 
+                    {
+                        "indices": [
+                            129, 
+                            139
+                        ], 
+                        "text": "FutureGov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/CJNEgFhgVl", 
+                        "indices": [
+                            59, 
+                            81
+                        ], 
+                        "expanded_url": "http://www.futuregov.asia/articles/2013/feb/22/kiosk-online-vehicle-registry-installed-australia/", 
+                        "display_url": "futuregov.asia/articles/2013/\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "304871735835111424", 
+            "from_user": "FutureGovMag", 
+            "from_user_id": 27584385, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 08:34:20 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304871592603828224, 
+    "results_per_page": 100, 
+    "time": "08:35", 
+    "date": "02-22-2013", 
+    "query": "%23EGov", 
+    "max_id": 304871735835111424, 
+    "page": 1
+}

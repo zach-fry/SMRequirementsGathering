@@ -1,0 +1,98 @@
+{
+    "completed_in": 0.021999999999999999, 
+    "max_id_str": "305342757688451072", 
+    "since_id_str": "305342702239768577", 
+    "refresh_url": "?since_id=305342757688451072&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2019005208/G2R_icon180v2_normal.jpg", 
+            "from_user_id_str": "37027131", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "text": "#Egov ideas worth importing - @tpardo from @CTG_UAlbany shares cases from ICEGOV 2012 with @governing &gt; http://t.co/Kjk5yvYlvt #gov20", 
+            "from_user_name": "Gov 2.0 Radio", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2019005208/G2R_icon180v2_normal.jpg", 
+            "id": 305342757688451072, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 44512498, 
+                        "indices": [
+                            30, 
+                            37
+                        ], 
+                        "id_str": "44512498", 
+                        "screen_name": "tpardo", 
+                        "name": "Theresa Pardo"
+                    }, 
+                    {
+                        "id": 37740494, 
+                        "indices": [
+                            43, 
+                            55
+                        ], 
+                        "id_str": "37740494", 
+                        "screen_name": "CTG_UAlbany", 
+                        "name": "CTG at UAlbany"
+                    }, 
+                    {
+                        "id": 25334900, 
+                        "indices": [
+                            91, 
+                            101
+                        ], 
+                        "id_str": "25334900", 
+                        "screen_name": "GOVERNING", 
+                        "name": "GOVERNING"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            5
+                        ], 
+                        "text": "Egov"
+                    }, 
+                    {
+                        "indices": [
+                            130, 
+                            136
+                        ], 
+                        "text": "gov20"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/Kjk5yvYlvt", 
+                        "indices": [
+                            107, 
+                            129
+                        ], 
+                        "expanded_url": "http://cof.lu/XI9ZZ2", 
+                        "display_url": "cof.lu/XI9ZZ2"
+                    }
+                ]
+            }, 
+            "id_str": "305342757688451072", 
+            "from_user": "gov20radio", 
+            "from_user_id": 37027131, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sat, 23 Feb 2013 15:46:01 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 305342702239768577, 
+    "results_per_page": 100, 
+    "time": "15:47", 
+    "date": "02-23-2013", 
+    "query": "%23EGov", 
+    "max_id": 305342757688451072, 
+    "page": 1
+}

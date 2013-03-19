@@ -1,0 +1,88 @@
+{
+    "completed_in": 0.01, 
+    "max_id_str": "304680299047034883", 
+    "since_id_str": "304680085942841344", 
+    "refresh_url": "?since_id=304680299047034883&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2700626346/3f77fd51fd6a65bbe00caf8ff891cf04_normal.jpeg", 
+            "from_user_id_str": "728843234", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "text": "RT @TechChange: Philanthropy Can Catalyze an Open Government Movement http://t.co/fsOoktHgyU @SSIReview #OpenGov #eGov", 
+            "from_user_name": "Tami Kesselman", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2700626346/3f77fd51fd6a65bbe00caf8ff891cf04_normal.jpeg", 
+            "id": 304680299047034883, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 124512853, 
+                        "indices": [
+                            3, 
+                            14
+                        ], 
+                        "id_str": "124512853", 
+                        "screen_name": "TechChange", 
+                        "name": "TechChange"
+                    }, 
+                    {
+                        "id": 50360725, 
+                        "indices": [
+                            93, 
+                            103
+                        ], 
+                        "id_str": "50360725", 
+                        "screen_name": "SSIReview", 
+                        "name": "Social Innovation"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            104, 
+                            112
+                        ], 
+                        "text": "OpenGov"
+                    }, 
+                    {
+                        "indices": [
+                            113, 
+                            118
+                        ], 
+                        "text": "eGov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/fsOoktHgyU", 
+                        "indices": [
+                            70, 
+                            92
+                        ], 
+                        "expanded_url": "http://j.mp/Yd0CBJ", 
+                        "display_url": "j.mp/Yd0CBJ"
+                    }
+                ]
+            }, 
+            "id_str": "304680299047034883", 
+            "from_user": "UNWIREDGlobal", 
+            "from_user_id": 728843234, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 21 Feb 2013 19:53:38 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304680085942841344, 
+    "results_per_page": 100, 
+    "time": "19:54", 
+    "date": "02-21-2013", 
+    "query": "%23EGov", 
+    "max_id": 304680299047034883, 
+    "page": 1
+}

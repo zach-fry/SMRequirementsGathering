@@ -1,0 +1,92 @@
+{
+    "completed_in": 0.048000000000000001, 
+    "max_id_str": "304982206781222912", 
+    "since_id_str": "304982076984287232", 
+    "refresh_url": "?since_id=304982206781222912&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2304638038/IPClogo_normal.png", 
+            "from_user_id_str": "607315704", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "text": "RT @wdeggers: I think #mobilegov now is where #egov was 10 yrs ago but w/more transformative potential due to #geospatial, #social. http://t.co/A01n2duEAz", 
+            "from_user_name": "IPAC Nova Scotia", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2304638038/IPClogo_normal.png", 
+            "id": 304982206781222912, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 51196532, 
+                        "indices": [
+                            3, 
+                            12
+                        ], 
+                        "id_str": "51196532", 
+                        "screen_name": "wdeggers", 
+                        "name": "William Eggers"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            22, 
+                            32
+                        ], 
+                        "text": "mobilegov"
+                    }, 
+                    {
+                        "indices": [
+                            46, 
+                            51
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            110, 
+                            121
+                        ], 
+                        "text": "geospatial"
+                    }, 
+                    {
+                        "indices": [
+                            123, 
+                            130
+                        ], 
+                        "text": "social"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/A01n2duEAz", 
+                        "indices": [
+                            132, 
+                            154
+                        ], 
+                        "expanded_url": "http://dupress.com/articles/gov-on-the-go/?id=us:el:dc:govgo:crosspromo_mobilemicro:fed:021913", 
+                        "display_url": "dupress.com/articles/gov-o\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "304982206781222912", 
+            "from_user": "IPACNS", 
+            "from_user_id": 607315704, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 15:53:19 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304982076984287232, 
+    "results_per_page": 100, 
+    "time": "15:54", 
+    "date": "02-22-2013", 
+    "query": "%23EGov", 
+    "max_id": 304982206781222912, 
+    "page": 1
+}

@@ -1,0 +1,95 @@
+{
+    "completed_in": 0.017999999999999999, 
+    "max_id_str": "304898366008066048", 
+    "since_id_str": "304898273955684352", 
+    "refresh_url": "?since_id=304898366008066048&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3014902985/bf89cb23261ed91ced963aabecbfaffa_normal.jpeg", 
+            "from_user_id_str": "52041192", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "text": "An 1-min poll on #egov research areas: http://t.co/XqfGNAstPS at the @nomadeu infoday on ICT-enabled governance #gov20 #egovgr @padgetsEU", 
+            "from_user_name": "Yannis Charalabidis", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/3014902985/bf89cb23261ed91ced963aabecbfaffa_normal.jpeg", 
+            "id": 304898366008066048, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 546784539, 
+                        "indices": [
+                            69, 
+                            77
+                        ], 
+                        "id_str": "546784539", 
+                        "screen_name": "nomadeu", 
+                        "name": "NOMAD"
+                    }, 
+                    {
+                        "id": 112438953, 
+                        "indices": [
+                            127, 
+                            137
+                        ], 
+                        "id_str": "112438953", 
+                        "screen_name": "padgetsEU", 
+                        "name": "PADGETS"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            17, 
+                            22
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            112, 
+                            118
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            119, 
+                            126
+                        ], 
+                        "text": "egovgr"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/XqfGNAstPS", 
+                        "indices": [
+                            39, 
+                            61
+                        ], 
+                        "expanded_url": "http://bit.ly/egovpoll", 
+                        "display_url": "bit.ly/egovpoll"
+                    }
+                ]
+            }, 
+            "id_str": "304898366008066048", 
+            "from_user": "yannisc", 
+            "from_user_id": 52041192, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 10:20:09 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304898273955684352, 
+    "results_per_page": 100, 
+    "time": "10:21", 
+    "date": "02-22-2013", 
+    "query": "%23EGov", 
+    "max_id": 304898366008066048, 
+    "page": 1
+}

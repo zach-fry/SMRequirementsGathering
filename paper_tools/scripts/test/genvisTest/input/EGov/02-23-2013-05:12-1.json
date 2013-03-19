@@ -1,0 +1,92 @@
+{
+    "completed_in": 0.017999999999999999, 
+    "max_id_str": "305182956513792003", 
+    "since_id_str": "305182900658241536", 
+    "refresh_url": "?since_id=305182956513792003&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": "William Eggers", 
+            "to_user_id_str": "51196532", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1870685214/image1330818751_normal.png", 
+            "from_user_id_str": "18590697", 
+            "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;", 
+            "text": "@wdeggers re: #mobilegov where #egov was 10 yrs ago; more transformative potential - #geospatial - #social. http://t.co/S9tcIQqnO1 &gt; 100%!", 
+            "from_user_name": "Ian Gertler", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1870685214/image1330818751_normal.png", 
+            "id": 305182956513792003, 
+            "to_user": "wdeggers", 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 51196532, 
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "id_str": "51196532", 
+                        "screen_name": "wdeggers", 
+                        "name": "William Eggers"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            14, 
+                            24
+                        ], 
+                        "text": "mobilegov"
+                    }, 
+                    {
+                        "indices": [
+                            31, 
+                            36
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            85, 
+                            96
+                        ], 
+                        "text": "geospatial"
+                    }, 
+                    {
+                        "indices": [
+                            99, 
+                            106
+                        ], 
+                        "text": "social"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/S9tcIQqnO1", 
+                        "indices": [
+                            108, 
+                            130
+                        ], 
+                        "expanded_url": "http://dupress.com/articles/gov-on-the-go/?id=us:el:dc:govgo:crosspromo_mobilemicro:fed:021913", 
+                        "display_url": "dupress.com/articles/gov-o\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "305182956513792003", 
+            "from_user": "IanGertler", 
+            "from_user_id": 18590697, 
+            "to_user_id": 51196532, 
+            "geo": null, 
+            "created_at": "Sat, 23 Feb 2013 05:11:01 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 305182900658241536, 
+    "results_per_page": 100, 
+    "time": "05:12", 
+    "date": "02-23-2013", 
+    "query": "%23EGov", 
+    "max_id": 305182956513792003, 
+    "page": 1
+}
