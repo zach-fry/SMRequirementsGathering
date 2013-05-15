@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Pie Chart showing Topics</title>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="./highstock/js/highstock.js"></script>
+<script src="./highstock/js/modules/exporting.js"></script>
+<script src="./mallet_output_wrapper.js"></script>
+<script>
+
+function dataPoint() {
+    this.topic_name = '';
+    this.percentage = 0;
+    this.hashtags = [];
+}
+
+function parseMalletOutput() { 
+    var data = [];
+
+    topics = output.split("#");
+    var sum=0;
+    for(var i=0 ; i<topics.length ; i++) {
+        var point = new dataPoint();
+        vals = topics[i].split(" ");
+
+        for(var j=0 ; j<vals.length ; j++) {
+            if(j==0) {
+                more_vals = vals[j].split("\t");
+                point.topic_name = more_vals[0];
+                point.percentage = parseFloat(more_vals[1]);
+                sum += parseFloat(more_vals[1]);
+                point.hashtags = [more_vals[2]];
+            } else {
+                point.hashtags.push(vals[j]);
+            }
+        }
+        data.push(point);
+    }
+
+    for(var i=0 ; i<data.length ; i++) {
+        data[i].percentage = data[i].percentage / sum;
+    }
+
+    return data;
+};
+
+
+$(function () {
+    
+    var points = [];
+    var data = parseMalletOutput();
+    for(var i=0 ; i<data.length ; i++) {
+        points.push( [data[i].topic_name, data[i].percentage ]);
+    }
+
+
+
+    $('#container').highcharts({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false
+        },
+
+        title: {
+            text: 'Piechart showing Active Topics for First Responders'
+        },
+        subtitle: {
+            text: 'Click on a topic (pie slice) to see what hashtags are in that topic'
+        },
+        tooltip: {
+            formatter: function() {
+                    return false;  
+                                  },
+            percentageDecimals: 2
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    color: '#000000',
+                    connectorColor: '#000000',
+                    formatter: function() {
+                        var topic_name = '';
+                        for(var i=0 ; i<data.length ; i++) {
+                            if(data[i].topic_name == this.point.name) {
+                                for(var j=0 ; j<3 ; j++) {
+                                    topic_name += '[<b>' + data[i].hashtags[j] + '</b>] ';
+                                }    
+                            }
+                        }
+                       
+                        return topic_name +'</b>: '+ this.percentage.toFixed(2) +' %';
+                    }
+                },
+                events: {
+                    click: function(e) {
+                        var title_elem = document.getElementById("topic-title-display");
+                        var list_elem = document.getElementById("topic-display");
+                        var topic_name = '';
+                        
+                        for(var i=0 ; i<data.length ; i++) {
+                            if(data[i].topic_name == e.point.name) {
+                                for(var j=0 ; j<3 ; j++) {
+                                    topic_name += '[<b>' + data[i].hashtags[j] + '</b>] ';
+                                }    
+                            }
+                        }
+                        title_elem.innerHTML = '';
+                        title_elem.innerHTML += topic_name; // +'</b>: '+ this.percentage.toFixed(2) +' %';
+
+                        list_elem.innerHTML = '';
+                        for(var i=0 ; i<data.length ; i++) {
+                            if(data[i].topic_name == e.point.name) {
+                                for(var j=0 ; j<data[i].hashtags.length ; j++) {
+                                    list_elem.innerHTML += data[i].hashtags[j]+'<br>';
+                                }    
+                            }
+                        }
+
+                    }
+                }
+            }
+        },
+        series: [{
+            type: 'pie',
+            name: 'Topics for tweets',
+            data: points
+        }]
+    });
+});
+</script>
+
+
+</head>
+
+<body>
+    <div id="container" style="width: 80%; float: left;">
+    </div>
+    <div style="width: 20%; float: right; text-align: center;">
+        <div id="topic-title-display" style="background-color: rgba(0.">
+        </div>
+        <div id="topic-display">
+        </div>
+    </div>
+
+</body>
+</html>

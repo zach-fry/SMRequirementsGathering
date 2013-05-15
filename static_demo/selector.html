@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="selector.css" type="text/css"></link>
+        <title>Hashtag Selector</title>
+        <script>
+            var hashtags = ['#SMEM', '#SMEMChat', '#EM', '#EGov', '#OGov', '#Gov20', '#HSEM', '#SM', '#WX', '#2BeeRdy', '#CoEMS', '#NEMA', '#IAEM', '#UASI', '#VSMWG', '#IAEMETC', '#firstresponder'];
+
+            function updateTaglist() {
+                for(var i=0 ; i<hashtags.length ; i++) {
+                    s = "<tr id=\""+hashtags[i]+"\" onclick=\"removeHashtag(this);\">";
+                    s += "<td class=\"tablist-tag\">"+hashtags[i]+"</td>";
+                    s += "<td class=\"tablist-mention\">"+ (Math.floor(Math.random()*100)+1) +"</td>";
+                    s += "</tr>";
+                    document.getElementById('tbody').innerHTML += s;
+                }
+            };
+
+            function addHashtag() {
+                var tag = prompt("Enter in new hashtag to follow", "");
+                if(tag != null) {
+                    hashtags.unshift(tag);
+                }
+                document.getElementById('tbody').innerHTML = '';
+                updateTaglist();
+            };
+
+            function removeHashtag(element) {
+                var r = window.confirm("Do you really want to remove hashtag "+element.id+"?");
+                if (r == true) {
+                    element.parentNode.removeChild(element);
+                }
+            }
+        </script>
+    </head>
+    <body onload="updateTaglist();">
+        <div id="main-content">
+            <div id="tag-selector">
+                <div id="display">
+                    <table class="tablist">
+                        <thead>
+                            <tr>
+                                <th>#Hashtag</th>
+                                <th>Mentions in last 24 Hours</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody">
+                            <!--
+                            <tr>
+                                <td class="tablist-tag">#SMEM</td>
+                                <td class="tablist-mention">125</td>
+                            </tr>
+                            --!>
+                        </tbody>
+                    </table>
+
+                </div>
+                <div id="input">
+                    <button id="add" onclick="addHashtag();">Add Hashtag</button>
+                    <button id="clear">Clear List</button>
+                </div>
+            </div>
+            <!--
+            <div id="live-stream">
+                <a id="twitter-timeline" class="twitter-timeline" href="https://twitter.com/search" data-widget-id="329439294194323457">Live Stream of Selected Hashtags</a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+            </div>
+            --!>
+    </body>
+</html>
