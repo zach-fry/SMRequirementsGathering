@@ -2,8 +2,32 @@
     <head>
         <link rel="stylesheet" href="selector.css" type="text/css"></link>
         <title>Hashtag Selector</title>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+        <script src="jquery-csv.js"></script>
         <script>
             var hashtags = ['#SMEM', '#SMEMChat', '#EM', '#EGov', '#OGov', '#Gov20', '#HSEM', '#SM', '#WX', '#2BeeRdy', '#CoEMS', '#NEMA', '#IAEM', '#UASI', '#VSMWG', '#IAEMETC', '#firstresponder'];
+
+            function getMentions(hashtags) {
+                mentions = [];
+                $.ajax({
+                    type: 'GET',
+                    url: 'MIT_Data/geo_tweets_2013_04_15.csv',
+                    dataType: 'json',
+                    data: {},
+                    async: false,
+                    success: function(data) {
+                        tweets = $.csv.toObjects(data);
+                        headers = tweets[0];
+                        for(var i=0 ; i<tweets.length ; i++) {
+                            if (i==0) {}
+                            else {
+                                
+                            }
+                    }
+                });
+                return mentions; 
+            }
+            
 
             function updateTaglist() {
                 for(var i=0 ; i<hashtags.length ; i++) {

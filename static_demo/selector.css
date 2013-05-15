@@ -3,8 +3,9 @@ html body {}
 #main-content {
     position: absolute;
     padding: 20px;
-    width: 100%;
+    width: auto;
     height: 100%;
+    margin: auto;
 }
 
 #tag-selector {
@@ -50,7 +51,7 @@ html body {}
 }   
 
 .tablist > thead th { padding: 20px 8px !important; }
-.tablist thead tr:hover { cursor: auto; background-color: inherit; }
+.tablist thead tr:hover { width: auto; cursor: auto; background-color: inherit; }
 
 .tablist-tag { 
     width: auto; 
