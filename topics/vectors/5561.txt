@@ -1,0 +1,6 @@
+food
+storm
+wx
+power
+safety
+nemo

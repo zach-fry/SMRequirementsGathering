@@ -1,0 +1,4 @@
+smem
+msgu
+crisismapping
+crowdsource

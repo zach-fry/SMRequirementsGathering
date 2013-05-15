@@ -1,0 +1,4 @@
+training
+smem
+vost
+sm4em

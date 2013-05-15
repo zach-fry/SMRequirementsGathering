@@ -1,0 +1,5 @@
+smem
+seattle
+reykjavik
+edmonton
+alberta

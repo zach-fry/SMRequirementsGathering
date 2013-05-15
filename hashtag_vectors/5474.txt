@@ -1,0 +1,4 @@
+azwx
+snow
+wx
+weather

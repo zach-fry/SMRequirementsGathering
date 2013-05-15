@@ -1,0 +1,3 @@
+sm
+apps
+tech

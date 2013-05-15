@@ -1,0 +1,4 @@
+iaem
+iscram
+tiems
+smem

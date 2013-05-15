@@ -1,0 +1,6 @@
+msc2013
+munsecconf
+diplomacy
+digitaldiplomacy
+gov
+egov

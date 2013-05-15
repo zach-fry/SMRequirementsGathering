@@ -1,0 +1,6 @@
+dc
+philly
+nyc
+wx
+news
+weather

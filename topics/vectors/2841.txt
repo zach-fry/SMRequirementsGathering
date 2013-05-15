@@ -1,0 +1,5 @@
+mswx
+alwx
+severe
+tornado
+wx

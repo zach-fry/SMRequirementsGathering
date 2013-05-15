@@ -1,0 +1,4 @@
+sm
+blog
+posts
+articles

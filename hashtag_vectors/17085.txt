@@ -1,0 +1,8 @@
+smem
+hsem
+iaem
+nema
+uasi
+dhs
+fema
+cyber

@@ -1,0 +1,9 @@
+smem
+hsem
+iaem
+nema
+fema
+dhs
+uasi
+disasters
+mitigati

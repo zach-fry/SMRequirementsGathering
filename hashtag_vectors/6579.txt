@@ -1,0 +1,4 @@
+where
+sm
+cpu
+eka

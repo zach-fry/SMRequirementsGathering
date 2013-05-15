@@ -1,0 +1,6 @@
+eq
+tsunami
+wx
+weather
+radar
+news

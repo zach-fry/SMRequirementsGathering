@@ -1,0 +1,4 @@
+smem
+msgu
+preparedness
+wcdm

@@ -1,0 +1,6 @@
+templates
+sm
+socialmedia
+facebook
+thought
+notice

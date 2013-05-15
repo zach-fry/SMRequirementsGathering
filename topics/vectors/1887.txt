@@ -1,0 +1,4 @@
+dense
+fog
+advisory
+wx

@@ -1,0 +1,7 @@
+trio
+sm
+friends
+friend
+parekoy
+classmates
+blockmates

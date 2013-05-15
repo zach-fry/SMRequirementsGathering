@@ -1,0 +1,6 @@
+wx
+alert
+paris
+france
+snow
+temperature

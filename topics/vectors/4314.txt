@@ -1,0 +1,8 @@
+nyc
+boston
+hartford
+portland
+wx
+weather
+radar
+news

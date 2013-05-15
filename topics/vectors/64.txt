@@ -1,0 +1,8 @@
+horsepower
+rpm
+nema
+framesize
+voltage
+phase
+electricmotor
+ptexperts

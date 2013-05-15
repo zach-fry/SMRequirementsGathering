@@ -1,0 +1,7 @@
+smem
+jobs
+hsem
+uasi
+nema
+dhs
+fema

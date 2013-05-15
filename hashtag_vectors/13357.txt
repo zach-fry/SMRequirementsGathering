@@ -1,0 +1,5 @@
+smem
+tv
+emergency
+alert
+warning

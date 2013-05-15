@@ -1,0 +1,9 @@
+polisci
+edem
+egov
+opengov
+ows
+cagov
+capoli
+caleg
+gov20

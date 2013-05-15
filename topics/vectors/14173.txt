@@ -1,0 +1,6 @@
+smem
+disasters
+tech
+opendata
+finance
+innovation

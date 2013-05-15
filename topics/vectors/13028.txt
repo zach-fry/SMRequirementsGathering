@@ -1,0 +1,6 @@
+tsunami
+earthquake
+socialmedia
+mapping
+smem
+gis

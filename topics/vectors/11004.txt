@@ -1,0 +1,16 @@
+cl
+jc
+stiff
+cr
+sm
+mb
+rl
+ac
+dc
+sw
+dm
+wv
+md
+md
+o
+yt

@@ -1,0 +1,4 @@
+business
+blog
+sm
+b2b

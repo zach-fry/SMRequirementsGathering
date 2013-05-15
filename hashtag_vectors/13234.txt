@@ -1,0 +1,4 @@
+earthquake
+usgs
+canvost
+smem

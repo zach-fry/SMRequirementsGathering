@@ -229,18 +229,18 @@ that gets rendered as a Hashtag X User Matrix
  - outpath is dir that file will be written to
 '''
 def writeAsymmetricCoOccurenceJSON(user_tagdict_map, hashtag_list, user_list, outpath='.'):
-    d = {'tag_nodes':[], 'user_nodes':[], 'links':[]}
+    d = {'tags':[], 'users':[], 'links':[]}
     for tag in hashtag_list:
         td = {}
-        td['name'] = tag
+        td['tag'] = tag
         td['group'] = 1
-        d['tag_nodes'].append(td)
+        d['tags'].append(td)
 
     for user in user_list:
         td = {}
         td['name'] = user
         td['group'] = 1
-        d['user_nodes'].append(td)
+        d['users'].append(td)
 
     for i,tag in enumerate(hashtag_list):
         for j,user in enumerate(user_list):
@@ -248,8 +248,8 @@ def writeAsymmetricCoOccurenceJSON(user_tagdict_map, hashtag_list, user_list, ou
             elif tag not in user_tagdict_map[user]: pass
             else:
                 td = {}
-                td['source'] = i
-                td['target'] = j
+                td['toTag'] = i
+                td['fromUser'] = j
                 td['value'] = user_tagdict_map[user][tag]
                 d['links'].append(td)
 

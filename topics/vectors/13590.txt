@@ -1,0 +1,4 @@
+smem
+lsem
+hsem
+vost

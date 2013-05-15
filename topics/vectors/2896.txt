@@ -1,0 +1,6 @@
+yeg
+yegwx
+yegweather
+weather
+wx
+edmonton

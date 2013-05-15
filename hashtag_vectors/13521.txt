@@ -1,0 +1,3 @@
+blizzard
+smem
+ndptc

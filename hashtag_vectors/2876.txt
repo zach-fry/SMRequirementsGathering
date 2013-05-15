@@ -1,0 +1,8 @@
+solar
+electronics
+power
+satellites
+wx
+climate
+security
+news

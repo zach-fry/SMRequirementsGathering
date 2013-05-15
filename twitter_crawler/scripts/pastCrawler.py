@@ -31,51 +31,58 @@ timestr = strftime('%H:%M', localtime())
 root_url = 'http://search.twitter.com/search.json'
 root_path = '/home/fryz/FirstResponder/twitter_crawler/results/'
 
-def requestURL(url, path, page):
+def requestURL(url):
     #print url
     try:
         req = urllib2.Request(url)
         response = urllib2.urlopen(req)
         #print response.read()
     except Exception as e:
+        #if isinstance(e, urllib2.HTTPError):
         f = open('error.txt', 'a')
-        f.write('%s-%s\t%s\n'%(datestr,timestr,url))
+        f.write('%s-%s\t%s\t%s\n'%(datestr,timestr,url,e))
         f.close()
-        print type(e), e.args, e
+        return None
+        #print type(e), e.args, e
     else:
-        json_obj = json.loads(response.read())
+        return json.loads(response.read())
 
-        json_obj['date'] = datestr
-        json_obj['time'] = timestr
-
+def parseTweets(json_obj, path):
         try:
-            next_url = json_obj['next_page']
-            return requestURL(root_url+next_url, path, page+1)
-        except KeyError:
-            return page
-        finally:
+            maxid = str(json_obj['max_id'])
+            f = open(path+'maxid.txt', 'w')
+            f.write('%s\n'%maxid)
+            f.close()
+
             if len(json_obj['results']) > 0:
-                f = open(path+'%s-%s-%s.json'%(datestr,timestr,page),'w')
+                index = 0
+                if os.path.exists('%s.json'%maxid):
+                    index = 1
+                    while os.path.exists('%s-%s.json'%(maxid,index)): index += 1
+
+                if index > 0:
+                    f = open(path+'%s-%s.json'%(maxid, index),'w')
+                else: 
+                    f = open(path+'%s.json'%(maxid),'w')
                 json.dump(json_obj, f, indent=4)
                 f.close()
             else: pass
+            
+            next_url = root_url + json_obj['next_page']
+            print next_url
+            return next_url
 
-        f = open(path+'maxid.txt', 'w')
-        f.write(str(json_obj['max_id']))
-        f.close()
-    
-    return -1
+        except KeyError:
+            return None
+
 
 def main():
     day = 'Boston/'
     global root_path
     root_path = root_path + day
 
-
-    max_pages = {}
-    for day in range(14,18):
+    for day in range(14,20):
         for tag in hashtags:
-            if tag not in max_pages: max_pages[tag] = 1
             print 'extracting hashtag %s'%tag
             path = root_path + tag.strip('#')+'/'
             if os.path.isdir(path) is False or os.path.exists(path) is False:
@@ -86,7 +93,6 @@ def main():
             url += '?result_type=recent&lang=en&rpp=100&include_entities=true&until=2013-04-%s&q='%day
             url += stripped_tag
 
-            page = max_pages[tag]
             while 1:
                 tmp_url = url
                 try:
@@ -96,10 +102,19 @@ def main():
                     tmp_url += '&since_id=%s'%(max_id)
                 except:
                     pass
+                    
+                json_object = requestURL(tmp_url)
+                if json_object is None:
+                    print 'Error processing request to %s'%tmp_url
+                    break
+                
+                p = parseTweets(json_object, path)
+                while p is not None:
+                    json_object = requestURL(p)
+                    if json_object is None: break
+                    p = parseTweets(json_object, path)
 
-                p = requestURL(tmp_url, path, max_pages[tag]) 
-                if p > 0: break
-                else: max_pages[tag] = p+1
+
 
 main()
 

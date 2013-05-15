@@ -1,0 +1,4 @@
+sm
+awful
+nointeraction
+nottransparent

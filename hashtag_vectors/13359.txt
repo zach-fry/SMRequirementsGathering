@@ -1,0 +1,5 @@
+infosharing
+smem
+hsem
+crisisinfo
+crisisdata

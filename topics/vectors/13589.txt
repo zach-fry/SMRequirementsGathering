@@ -1,0 +1,3 @@
+smem
+fdem
+emcomm
