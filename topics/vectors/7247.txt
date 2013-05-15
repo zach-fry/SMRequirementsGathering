@@ -1,6 +1,0 @@
-events
-eventprofs
-sm
-conference
-party
-active

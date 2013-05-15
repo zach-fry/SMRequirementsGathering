@@ -1,4 +1,0 @@
-joc
-lex
-em
-tai

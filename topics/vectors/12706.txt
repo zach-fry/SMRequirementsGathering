@@ -1,4 +1,0 @@
-openpacer
-opengov
-opendata
-egov

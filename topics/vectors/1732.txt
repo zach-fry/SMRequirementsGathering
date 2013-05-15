@@ -1,3 +1,0 @@
-opendata
-ogov
-opengovernment

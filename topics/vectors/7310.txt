@@ -1,4 +1,0 @@
-gym
-bootcamp
-workout
-sm

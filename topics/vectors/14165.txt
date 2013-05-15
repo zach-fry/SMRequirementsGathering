@@ -1,3 +1,0 @@
-nemo
-grid
-smem

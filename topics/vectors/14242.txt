@@ -1,4 +1,0 @@
-tsunami
-earthquake
-smem
-em2au

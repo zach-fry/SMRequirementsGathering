@@ -1,6 +1,0 @@
-ct
-blizzard
-wx
-weather
-bingo
-ctstorm

@@ -1,7 +1,0 @@
-us
-sar
-nemo
-wx
-health
-news
-feet

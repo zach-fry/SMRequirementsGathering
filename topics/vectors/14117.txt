@@ -1,5 +1,0 @@
-acflem
-acflwx
-fdem
-smem
-prepared

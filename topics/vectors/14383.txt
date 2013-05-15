@@ -1,4 +1,0 @@
-earthquake
-tsunamis
-smem
-msgu

@@ -1,4 +1,0 @@
-redcross
-info4
-alert
-wx

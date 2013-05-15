@@ -1,5 +1,0 @@
-tweets
-socialmedia
-sm
-smm
-twitter

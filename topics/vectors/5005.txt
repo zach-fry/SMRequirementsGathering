@@ -1,4 +1,0 @@
-severeweather
-wx
-tornado
-stormspotter

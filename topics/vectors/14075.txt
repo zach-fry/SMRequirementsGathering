@@ -1,4 +1,0 @@
-acflem
-acflwx
-fdem
-smem

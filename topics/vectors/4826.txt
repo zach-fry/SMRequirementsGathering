@@ -1,5 +1,0 @@
-wx
-skywarn
-ares
-hamr
-weathernut

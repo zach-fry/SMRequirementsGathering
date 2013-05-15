@@ -1,4 +1,0 @@
-dense
-fog
-advisory
-wx

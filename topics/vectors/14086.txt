@@ -1,3 +1,0 @@
-smem
-smwsmem
-smwwdc

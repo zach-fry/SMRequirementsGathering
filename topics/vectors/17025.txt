@@ -1,8 +1,0 @@
-smem
-hsem
-iaem
-dhs
-nema
-fema
-disasters
-uasi

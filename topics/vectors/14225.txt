@@ -1,4 +1,0 @@
-nemo
-smem
-nhgsa
-msgu

@@ -1,5 +1,0 @@
-leanstartup
-startup
-beta
-sm
-tech

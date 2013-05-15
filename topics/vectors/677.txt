@@ -1,7 +1,0 @@
-cfpb
-mortgage
-servicing
-rules
-regx
-respa
-gov20

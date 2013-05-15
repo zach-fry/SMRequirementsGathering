@@ -1,8 +1,0 @@
-us
-wx
-news
-fire
-weather
-nm
-ok
-co

@@ -1,4 +1,0 @@
-wx
-mswx
-tornado
-severe

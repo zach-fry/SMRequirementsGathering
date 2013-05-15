@@ -1,5 +1,0 @@
-bosnow
-esri
-gis
-smem
-fb

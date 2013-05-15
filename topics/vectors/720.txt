@@ -1,6 +1,0 @@
-code
-build
-hack
-gov20
-civic
-opengov

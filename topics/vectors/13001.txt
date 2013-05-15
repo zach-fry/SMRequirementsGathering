@@ -1,5 +1,0 @@
-cert
-volunteer
-seattle
-cascadia
-smem

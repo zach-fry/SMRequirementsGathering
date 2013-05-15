@@ -1,5 +1,0 @@
-snow
-ncdc
-gis
-noaa
-hsem

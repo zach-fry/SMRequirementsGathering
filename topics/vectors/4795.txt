@@ -1,3 +1,0 @@
-mesodiscussion
-weather
-wx

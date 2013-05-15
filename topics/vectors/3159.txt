@@ -1,8 +1,0 @@
-germany
-nuclear
-climate
-wx
-nocoal
-coal
-alt
-altenergy

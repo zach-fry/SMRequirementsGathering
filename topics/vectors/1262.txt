@@ -1,4 +1,0 @@
-opensource
-opengov
-contentgov
-gov20

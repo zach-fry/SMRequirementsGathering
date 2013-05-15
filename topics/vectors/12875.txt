@@ -1,4 +1,0 @@
-egov
-mobile
-custexp
-ux

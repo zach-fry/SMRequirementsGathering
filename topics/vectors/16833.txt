@@ -1,3 +1,0 @@
-manhunt
-wx
-smemchat

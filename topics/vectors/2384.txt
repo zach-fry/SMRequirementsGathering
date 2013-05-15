@@ -1,4 +1,0 @@
-wx
-kswx
-weather
-wind

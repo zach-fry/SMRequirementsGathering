@@ -1,9 +1,0 @@
-radar
-wx
-current
-eastcoast
-nemo
-windgusts
-coastalflooding
-stayinside
-besafe

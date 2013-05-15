@@ -1,4 +1,0 @@
-sm
-awful
-nointeraction
-nottransparent

@@ -1,5 +1,0 @@
-opengov
-ogov
-opendata
-transparency
-participation

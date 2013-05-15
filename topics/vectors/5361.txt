@@ -1,5 +1,0 @@
-modis
-wx
-ctwx
-nywx
-riwx

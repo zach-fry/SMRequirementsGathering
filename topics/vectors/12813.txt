@@ -1,3 +1,0 @@
-corepublicservice
-egov
-opendata

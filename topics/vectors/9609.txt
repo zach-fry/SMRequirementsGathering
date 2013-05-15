@@ -1,4 +1,0 @@
-socialrisk
-bigdata
-sm
-privacy

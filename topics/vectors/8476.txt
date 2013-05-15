@@ -1,5 +1,0 @@
-mgmt
-growth
-health
-oi
-sm

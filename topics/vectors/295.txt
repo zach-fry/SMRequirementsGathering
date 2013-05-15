@@ -1,5 +1,0 @@
-opengov
-opendata
-gov20
-gov30
-gis

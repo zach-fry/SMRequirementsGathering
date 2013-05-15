@@ -1,3 +1,0 @@
-severeweather
-weather
-wx

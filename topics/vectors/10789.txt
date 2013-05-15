@@ -1,5 +1,0 @@
-oi
-mgmt
-sm
-business
-strategy

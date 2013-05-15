@@ -1,3 +1,0 @@
-emcomm
-smem
-fdem

@@ -1,4 +1,0 @@
-govit
-gov20
-tech
-opendata

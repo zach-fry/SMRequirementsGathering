@@ -1,3 +1,0 @@
-wx
-airline
-travel

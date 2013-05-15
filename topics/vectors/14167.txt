@@ -1,4 +1,0 @@
-bigdata
-socialmedia
-gis
-smem

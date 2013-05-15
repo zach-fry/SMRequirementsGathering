@@ -1,4 +1,0 @@
-food
-sm
-research
-media

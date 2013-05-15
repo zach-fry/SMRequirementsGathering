@@ -1,5 +1,0 @@
-gta
-toronto
-yorkregion
-wx
-weather

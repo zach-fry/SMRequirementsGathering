@@ -1,5 +1,0 @@
-egov
-interoperability
-opengov
-opendata
-backoffice

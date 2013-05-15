@@ -1,7 +1,0 @@
-publiclaw
-codes
-public
-earthquakes
-fires
-hsem
-disaster

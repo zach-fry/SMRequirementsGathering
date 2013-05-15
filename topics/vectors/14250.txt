@@ -1,4 +1,0 @@
-nyc
-blizzard
-snowstorm
-smem
