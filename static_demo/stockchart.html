@@ -2,7 +2,7 @@
 <html>
 <head>
    <title>Highstock twitter graph</title>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="./highstock/js/highstock.js"></script>
 <script src="./highstock/js/modules/exporting.js"></script>
 <!-- THIS SCRIPT TAG HAS A VARIABLE times WHICH IS WHAT THE TIMESTAMPS ARE STORED IN--!>
@@ -18,7 +18,7 @@ function displayChart(data) {
 
             xAxis: {
                 type: 'datetime',
-                tickInterval: 1000*3600,
+                tickInterval: 1000*3600*24,
                 dateTimeLabelFormats: {
                     hour: '%H:%M',
                     day: '%m-%d-%y'
@@ -46,7 +46,7 @@ function displayChart(data) {
             },
 
             title: {
-                text: "Tweet Activity viewed over time for dates 04/15/2013"
+                text: "Tweet Activity viewed over time"
             },
 
             series: [{
@@ -68,8 +68,8 @@ function displayChart(data) {
 //var times comes from the timestamps.js file
 var good_times = [];
 
-for(var i=0 ; i<52000 ; i++) {
-    good_times[i] = times1[i];
+for(var i=0 ; i<times.length ; i++) {
+    good_times[i] = times[i];
 }
 displayChart(good_times);
 
@@ -83,32 +83,3 @@ displayChart(good_times);
 
 </body>
 </html>
-
-<script>
-/*
-var hash_data = {}
-for(var i=0 ; i<data.length ; i++) {
-    hash_data[data[i]] = 0;
-}
-
-for(var i=0 ; i<data.length ; i++) {
-    hash_data[data[i]] += 1;
-}
-
-var tuples = [];
-for (var key in hash_data) tuples.push([key, hash_data[key]]);
-
-tuples.sort(function(a, b) {
-    a = a[1];
-    b = b[1];
-
-    return a < b ? -1 : (a > b ? 1 : 0);
-});
-
-for (var i = 0; i < tuples.length; i++) {
-    var key = tuples[i][0];
-    var value = tuples[i][1];
-    document.write(key + ' : ' + value + '<br>');
-}
-*/
-</script>
