@@ -2,7 +2,7 @@
 <html>
 <head>
    <title>Pie Chart showing Topics</title>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="./highstock/js/highstock.js"></script>
 <script src="./highstock/js/modules/exporting.js"></script>
 <!-- THIS FILE HAS THE VARIABLE output WHICH STORES THE RAW MALLET TOPIC MODELING INFO--!>
@@ -18,6 +18,7 @@ function dataPoint() {
 function parseMalletOutput() { 
     var data = [];
 
+    //output variable is declared in malled_output_wrapper.js
     topics = output.split("#");
     var sum=0;
     for(var i=0 ; i<topics.length ; i++) {
@@ -53,8 +54,6 @@ $(function () {
     for(var i=0 ; i<data.length ; i++) {
         points.push( [data[i].topic_name, data[i].percentage ]);
     }
-
-
 
     $('#container').highcharts({
         chart: {
