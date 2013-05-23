@@ -7,6 +7,7 @@ Zach Fry(frydawgt524@gmail.com) - 5/23/2013
     /old_work/twitter_crawler has the python code that wraps the twitter API
     
 /static_demo/ is all the HTML and JavaScript code for the Dashboard Static Demo
+    /static_demo/input is where the datafiles for the dashboard live
 
 /dashboard_data/ is where all the magic happens for the current version of things as of 5/23
     /dashboard_data/generateDashboardData.py is python script that gets Tweets from the RDF Store 
@@ -16,5 +17,7 @@ Zach Fry(frydawgt524@gmail.com) - 5/23/2013
             python generateDashboardData.py
 
     /dashboard_data/output is where all of the output that gets plugged into the dashboard goes
+        these files will go to /static_demo/input to get plugged into the dashboard
+
     /dashboard_data/mallet is where all of the mallet topic modelling happens
 
