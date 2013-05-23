@@ -5,58 +5,9 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="./highstock/js/highstock.js"></script>
 <script src="./highstock/js/modules/exporting.js"></script>
+<!-- THIS SCRIPT TAG HAS A VARIABLE times WHICH IS WHAT THE TIMESTAMPS ARE STORED IN--!>
+<script src="./input/timestamps.js"></script>
 <script>
-
-//Need to convert all tweet times to unix time
-function parseJSON() {
-    var points_map = {};
-    var points_list = [];
-    var time_points = [];
-    $.ajax({
-        type: 'GET',
-        url: 'all.json',
-        dataType: 'json',
-        data: {},
-        async: false,
-        success: function(data) {
-            $.each(data, function(key, val) {
-                var tag = key;
-                //alert(tag);
-                for (var i in val) {
-                    for (var result in data[key][i]['results']) {
-                        //alert(data[key][i]['results'][result]['created_at']);
-                        //alert(Date.parse(data[key][i]['results'][result]['created_at']));
-                        //alert(string(Date.parse(data[key][i]['results'][result]['created_at'])));
-                        //points.push( [ Date.parse(data[key][i]['results'][result]['created_at']), 1 ] );
-                        time_points.push(Date.parse(data[key][i]['results'][result]['created_at']));
-                    }
-                }
-            }); 
-        }
-    });
-    //alert(Math.max.apply(Math, time_points));
-    //alert(Math.min.apply(Math, time_points));
-
-
-    var min = Math.min.apply(Math, time_points);
-    var max = Math.max.apply(Math, time_points);
-    var num_bins = 100;
-    var bin_size = Math.floor((max - min) / num_bins );
-
-    for(var i=0 ; i<num_bins ; i++) { points_map[i] = 0; }
-    
-    for(var i=0 ; i<time_points.length ; i++) {
-        points_map[ Math.floor( ( time_points[i] - min ) / bin_size ) ] += 1;
-    }
-
-    $.each(points_map, function(k,v) {
-        time = min + bin_size*k;
-        points_list.push([time,v]);
-    });    
-    
-    return points_list;
-};
-
 
 function displayChart(data) {
     $(function() {
@@ -67,7 +18,7 @@ function displayChart(data) {
 
             xAxis: {
                 type: 'datetime',
-                tickInterval: 1000*3600*24,
+                tickInterval: 1000*3600,
                 dateTimeLabelFormats: {
                     hour: '%H:%M',
                     day: '%m-%d-%y'
@@ -75,7 +26,27 @@ function displayChart(data) {
             }, 
 
             rangeSelector: {
+                buttons: [{
+                            type: "minute",
+                            count: 60,
+                            text: "1h"
+                            }, {
+                            type: "minute",
+                            count: 360,
+                            text: "6h"
+                            }, {
+                            type: "minute",
+                            count: 720, 
+                            text: "12h"
+                            }, {
+                            type: "all",
+                            text: "All"
+                        }],
                 selected: 1
+            },
+
+            title: {
+                text: "Tweet Activity viewed over time for dates 04/15/2013"
             },
 
             series: [{
@@ -83,19 +54,24 @@ function displayChart(data) {
                 name: 'Tweet Activity',
                 data: data,
                 dataGrouping: {
-                    units: [[
-                            'hour',
-                            [1, 2, 3, 4, 6, 12, 24]
-                            ]]
+                    units: [
+                    ['minute', [10,30]],
+                    ['hour', [1,6,12]],
+                    ['day', [1]],
+                    ]
                 }
             }]
         });
     });
 };
 
+//var times comes from the timestamps.js file
+var good_times = [];
 
-var data = parseJSON();
-displayChart(data);
+for(var i=0 ; i<52000 ; i++) {
+    good_times[i] = times1[i];
+}
+displayChart(good_times);
 
 </script>
 </head>
