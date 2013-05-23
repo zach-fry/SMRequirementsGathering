@@ -1,3 +1,0 @@
-library
-greatservice
-gov20

@@ -1,4 +1,0 @@
-hotpink
-sm
-lrg
-xl

@@ -1,3 +1,0 @@
-opendata
-opengov
-gov20

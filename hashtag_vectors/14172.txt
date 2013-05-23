@@ -1,4 +1,0 @@
-sm
-smem
-smle
-le

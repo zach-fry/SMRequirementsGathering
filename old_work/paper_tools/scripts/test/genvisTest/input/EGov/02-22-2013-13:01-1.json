@@ -1,0 +1,74 @@
+{
+    "completed_in": 0.010999999999999999, 
+    "max_id_str": "304938611990745089", 
+    "since_id_str": "304938539030818816", 
+    "refresh_url": "?since_id=304938611990745089&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2882756523/8e93cf8c9290891c1fe79aece3486b72_normal.jpeg", 
+            "from_user_id_str": "138690086", 
+            "source": "&lt;a href=&quot;http://www.tweetedtimes.com&quot;&gt;The Tweeted Times&lt;/a&gt;", 
+            "text": "#oGov #eGov #AAPP news http://t.co/kFzHYKi5Iy - top stories by alorza, NrGob, cdurancircujano", 
+            "from_user_name": "Gabriel Navarro", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2882756523/8e93cf8c9290891c1fe79aece3486b72_normal.jpeg", 
+            "id": 304938611990745089, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            5
+                        ], 
+                        "text": "oGov"
+                    }, 
+                    {
+                        "indices": [
+                            6, 
+                            11
+                        ], 
+                        "text": "eGov"
+                    }, 
+                    {
+                        "indices": [
+                            12, 
+                            17
+                        ], 
+                        "text": "AAPP"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/kFzHYKi5Iy", 
+                        "indices": [
+                            23, 
+                            45
+                        ], 
+                        "expanded_url": "http://tweetedtimes.com/kuunga/o-government", 
+                        "display_url": "tweetedtimes.com/kuunga/o-gover\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "304938611990745089", 
+            "from_user": "kuunga", 
+            "from_user_id": 138690086, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 13:00:05 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304938539030818816, 
+    "results_per_page": 100, 
+    "time": "13:01", 
+    "date": "02-22-2013", 
+    "query": "%23EGov", 
+    "max_id": 304938611990745089, 
+    "page": 1
+}

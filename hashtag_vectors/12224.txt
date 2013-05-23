@@ -1,3 +1,0 @@
-nbs
-sm
-sad

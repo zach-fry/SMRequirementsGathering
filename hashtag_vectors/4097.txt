@@ -1,4 +1,0 @@
-nemo
-wnyweather
-rochester
-wx

@@ -1,0 +1,126 @@
+{
+    "links": [
+        {
+            "fromUser": 2, 
+            "toTag": 0, 
+            "value": 1
+        }, 
+        {
+            "fromUser": 2, 
+            "toTag": 1, 
+            "value": 2
+        }, 
+        {
+            "fromUser": 1, 
+            "toTag": 12, 
+            "value": 1
+        }, 
+        {
+            "fromUser": 1, 
+            "toTag": 0, 
+            "value": 5
+        }, 
+        {
+            "fromUser": 1, 
+            "toTag": 9, 
+            "value": 6
+        }, 
+        {
+            "fromUser": 1, 
+            "toTag": 13, 
+            "value": 1
+        }, 
+        {
+            "fromUser": 1, 
+            "toTag": 7, 
+            "value": 6
+        }, 
+        {
+            "fromUser": 0, 
+            "toTag": 5, 
+            "value": 16
+        }, 
+        {
+            "fromUser": 0, 
+            "toTag": 7, 
+            "value": 17
+        }, 
+        {
+            "fromUser": 0, 
+            "toTag": 6, 
+            "value": 15
+        }
+    ], 
+    "tags": [
+        {
+            "group": 1, 
+            "tag": "#bostonmarathon"
+        }, 
+        {
+            "group": 1, 
+            "tag": "#obama"
+        }, 
+        {
+            "group": 1, 
+            "tag": "#williamweimer"
+        }, 
+        {
+            "group": 1, 
+            "tag": "#phantomfireworks"
+        }, 
+        {
+            "group": 1, 
+            "tag": "#alabama"
+        }, 
+        {
+            "group": 1, 
+            "tag": "#evening"
+        }, 
+        {
+            "group": 1, 
+            "tag": "#nearly"
+        }, 
+        {
+            "group": 1, 
+            "tag": "#news"
+        }, 
+        {
+            "group": 1, 
+            "tag": "#baa"
+        }, 
+        {
+            "group": 1, 
+            "tag": "#alternativenews"
+        }, 
+        {
+            "group": 1, 
+            "tag": "#west"
+        }, 
+        {
+            "group": 1, 
+            "tag": "#celtics"
+        }, 
+        {
+            "group": 1, 
+            "tag": "#claybennett"
+        }, 
+        {
+            "group": 1, 
+            "tag": "#fbi"
+        }
+    ], 
+    "users": [
+        {
+            "group": 1, 
+            "name": "@AlabamaSentinel"
+        }, 
+        {
+            "group": 1, 
+            "name": "@NewsDetector"
+        }, 
+        {
+            "group": 1, 
+            "name": "@TucsonNewsNow"
+        }
+    ]
+}

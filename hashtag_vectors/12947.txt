@@ -1,5 +1,0 @@
-polisci
-edem
-egov
-opengov
-ows

@@ -1,5 +1,0 @@
-weather
-anxiety
-nws
-wx
-radar

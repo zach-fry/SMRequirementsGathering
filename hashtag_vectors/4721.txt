@@ -1,4 +1,0 @@
-autofollow
-followme
-teamfollowback
-wx

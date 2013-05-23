@@ -1,8 +1,0 @@
-wx
-weather
-ab
-canada
-yegwx
-yegweather
-yeg
-warm

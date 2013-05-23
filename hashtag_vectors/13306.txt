@@ -1,4 +1,0 @@
-nemo
-blizzard
-wcdm
-smem

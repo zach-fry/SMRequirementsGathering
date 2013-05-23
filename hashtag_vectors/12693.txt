@@ -1,4 +1,0 @@
-capability
-model
-egov
-ogp

@@ -1,0 +1,106 @@
+{
+    "completed_in": 0.02, 
+    "max_id_str": "305347878312886272", 
+    "since_id_str": "305347736482480128", 
+    "refresh_url": "?since_id=305347878312886272&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/278523088/hitchcock_green_normal.jpg", 
+            "from_user_id_str": "14494650", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "RT @GovDelivery: Join the best #gov communicators in #WA or #OR at these seminars in March http://t.co/QG8tjujlOm #gov20 #socialgov #egov", 
+            "from_user_name": "Richard Fong", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/278523088/hitchcock_green_normal.jpg", 
+            "id": 305347878312886272, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 14401102, 
+                        "indices": [
+                            3, 
+                            15
+                        ], 
+                        "id_str": "14401102", 
+                        "screen_name": "GovDelivery", 
+                        "name": "GovDelivery"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            31, 
+                            35
+                        ], 
+                        "text": "gov"
+                    }, 
+                    {
+                        "indices": [
+                            53, 
+                            56
+                        ], 
+                        "text": "WA"
+                    }, 
+                    {
+                        "indices": [
+                            60, 
+                            63
+                        ], 
+                        "text": "OR"
+                    }, 
+                    {
+                        "indices": [
+                            114, 
+                            120
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            121, 
+                            131
+                        ], 
+                        "text": "socialgov"
+                    }, 
+                    {
+                        "indices": [
+                            132, 
+                            137
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/QG8tjujlOm", 
+                        "indices": [
+                            91, 
+                            113
+                        ], 
+                        "expanded_url": "http://bit.ly/GDTour2013", 
+                        "display_url": "bit.ly/GDTour2013"
+                    }
+                ]
+            }, 
+            "id_str": "305347878312886272", 
+            "from_user": "Ouch_", 
+            "from_user_id": 14494650, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sat, 23 Feb 2013 16:06:21 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 305347736482480128, 
+    "results_per_page": 100, 
+    "time": "16:07", 
+    "date": "02-23-2013", 
+    "query": "%23EGov", 
+    "max_id": 305347878312886272, 
+    "page": 1
+}

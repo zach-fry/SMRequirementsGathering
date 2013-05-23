@@ -1,0 +1,140 @@
+{
+    "completed_in": 0.014999999999999999, 
+    "max_id_str": "304852781615955968", 
+    "since_id_str": "304852720551096320", 
+    "refresh_url": "?since_id=304852781615955968&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3057578545/cee570de0edc526aadc7167053afb497_normal.jpeg", 
+            "from_user_id_str": "1041602970", 
+            "source": "&lt;a href=&quot;http://twitter.com/tweetbutton&quot;&gt;Tweet Button&lt;/a&gt;", 
+            "text": "Kiosk for online vehicle registry Installed in NT, Australia http://t.co/BKhMdMAoEv via @FutureGovMag @adamgiles #egov", 
+            "from_user_name": "Sumedha Jalote", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/3057578545/cee570de0edc526aadc7167053afb497_normal.jpeg", 
+            "id": 304852781615955968, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 27584385, 
+                        "indices": [
+                            88, 
+                            101
+                        ], 
+                        "id_str": "27584385", 
+                        "screen_name": "FutureGovMag", 
+                        "name": "FutureGov Magazine"
+                    }, 
+                    {
+                        "id": 19898203, 
+                        "indices": [
+                            102, 
+                            112
+                        ], 
+                        "id_str": "19898203", 
+                        "screen_name": "adamgiles", 
+                        "name": "Adam Giles"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            113, 
+                            118
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/BKhMdMAoEv", 
+                        "indices": [
+                            61, 
+                            83
+                        ], 
+                        "expanded_url": "http://www.futuregov.asia/articles/2013/feb/22/kiosk-online-vehicle-registry-installed-australia/", 
+                        "display_url": "futuregov.asia/articles/2013/\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "304852781615955968", 
+            "from_user": "FGSumedha", 
+            "from_user_id": 1041602970, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 07:19:01 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Revision 10573: Upgrading to zc.buildout version 2: Changed Paths:\n \u00a0\u00a0\u00a0\u00a0Modify\u00a0\u00a0\u00a0\u00a0/po... http://t.co/1HQ5YNV51u #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 304852774359797760, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            122, 
+                            130
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/1HQ5YNV51u", 
+                        "indices": [
+                            99, 
+                            121
+                        ], 
+                        "expanded_url": "http://bit.ly/YfV9u5", 
+                        "display_url": "bit.ly/YfV9u5"
+                    }
+                ]
+            }, 
+            "id_str": "304852774359797760", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 07:18:59 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304852720551096320, 
+    "results_per_page": 100, 
+    "time": "07:20", 
+    "date": "02-22-2013", 
+    "query": "%23EGov", 
+    "max_id": 304852781615955968, 
+    "page": 1
+}

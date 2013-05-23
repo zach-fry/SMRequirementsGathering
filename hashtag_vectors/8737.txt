@@ -1,6 +1,0 @@
-audio
-movie
-media
-tech
-sm
-music

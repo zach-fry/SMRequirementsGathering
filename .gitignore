@@ -1,6 +1,6 @@
-twitter_crawler/results/*
-MITLL_datasets
-topics/vectors
+*.swp
+
+dashboard_data/vectors
 
 
 

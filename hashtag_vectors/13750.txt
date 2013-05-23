@@ -1,5 +1,0 @@
-crowdsource
-fema
-sandy
-crisisdata
-smem

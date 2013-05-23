@@ -1,5 +1,0 @@
-smem
-crowdmapping
-disaster
-crisistech
-hsem

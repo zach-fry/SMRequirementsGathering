@@ -1,5 +1,0 @@
-ibm
-agile
-scrum
-gov20
-smartergovernment

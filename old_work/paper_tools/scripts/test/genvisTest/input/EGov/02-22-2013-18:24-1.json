@@ -1,0 +1,95 @@
+{
+    "completed_in": 0.058999999999999997, 
+    "max_id_str": "305019859346010112", 
+    "since_id_str": "305019824227119106", 
+    "refresh_url": "?since_id=305019859346010112&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/966446516/AT-Icon-200_normal.jpg", 
+            "from_user_id_str": "20121590", 
+            "source": "&lt;a href=&quot;http://www.easychirp.com&quot;&gt;Easy Chirp&lt;/a&gt;", 
+            "text": "Democrats proposal to fund accessible tech in #education http://t.co/gGPJbKGt5B HT @knowbility @LFLegal #a11y #egov", 
+            "from_user_name": "Easy Chirp", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/966446516/AT-Icon-200_normal.jpg", 
+            "id": 305019859346010112, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 13837912, 
+                        "indices": [
+                            83, 
+                            94
+                        ], 
+                        "id_str": "13837912", 
+                        "screen_name": "knowbility", 
+                        "name": "Knowbility"
+                    }, 
+                    {
+                        "id": 123320090, 
+                        "indices": [
+                            95, 
+                            103
+                        ], 
+                        "id_str": "123320090", 
+                        "screen_name": "LFLegal", 
+                        "name": "Lainey Feingold"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            46, 
+                            56
+                        ], 
+                        "text": "education"
+                    }, 
+                    {
+                        "indices": [
+                            104, 
+                            109
+                        ], 
+                        "text": "a11y"
+                    }, 
+                    {
+                        "indices": [
+                            110, 
+                            115
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/gGPJbKGt5B", 
+                        "indices": [
+                            57, 
+                            79
+                        ], 
+                        "expanded_url": "http://bit.ly/W65Lx7", 
+                        "display_url": "bit.ly/W65Lx7"
+                    }
+                ]
+            }, 
+            "id_str": "305019859346010112", 
+            "from_user": "EasyChirp", 
+            "from_user_id": 20121590, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 18:22:56 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 305019824227119106, 
+    "results_per_page": 100, 
+    "time": "18:24", 
+    "date": "02-22-2013", 
+    "query": "%23EGov", 
+    "max_id": 305019859346010112, 
+    "page": 1
+}

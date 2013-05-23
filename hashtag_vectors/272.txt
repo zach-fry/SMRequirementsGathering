@@ -1,7 +1,0 @@
-sans
-windows
-forensics
-infosec
-security
-gov20
-itsecurity

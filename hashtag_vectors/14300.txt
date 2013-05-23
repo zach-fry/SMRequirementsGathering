@@ -1,3 +1,0 @@
-smem
-ndptc
-vost

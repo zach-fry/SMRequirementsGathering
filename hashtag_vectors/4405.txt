@@ -1,4 +1,0 @@
-severe
-wx
-news
-weather

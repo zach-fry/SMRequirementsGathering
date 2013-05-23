@@ -1,0 +1,67 @@
+{
+    "completed_in": 0.025999999999999999, 
+    "max_id_str": "304948275256107009", 
+    "since_id_str": "304948103008632833", 
+    "refresh_url": "?since_id=304948275256107009&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2729106702/52e7921553f10da7ba0904c3b2942d8b_normal.png", 
+            "from_user_id_str": "61195350", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "text": "Entando allows to easily personalize the platform to meet government specific regulations needs http://t.co/g8a3WvtFvo #accessibility #egov", 
+            "from_user_name": "Entando ", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2729106702/52e7921553f10da7ba0904c3b2942d8b_normal.png", 
+            "id": 304948275256107009, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            119, 
+                            133
+                        ], 
+                        "text": "accessibility"
+                    }, 
+                    {
+                        "indices": [
+                            134, 
+                            139
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/g8a3WvtFvo", 
+                        "indices": [
+                            96, 
+                            118
+                        ], 
+                        "expanded_url": "http://goo.gl/riXoM", 
+                        "display_url": "goo.gl/riXoM"
+                    }
+                ]
+            }, 
+            "id_str": "304948275256107009", 
+            "from_user": "EntandoSrl", 
+            "from_user_id": 61195350, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 13:38:29 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304948103008632833, 
+    "results_per_page": 100, 
+    "time": "13:39", 
+    "date": "02-22-2013", 
+    "query": "%23EGov", 
+    "max_id": 304948275256107009, 
+    "page": 1
+}

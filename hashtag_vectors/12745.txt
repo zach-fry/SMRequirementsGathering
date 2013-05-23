@@ -1,4 +1,0 @@
-semantic
-vocabulary
-interoperability
-egov

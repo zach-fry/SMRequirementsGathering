@@ -1,4 +1,0 @@
-adeneo
-embedded
-imx6
-sabrelite

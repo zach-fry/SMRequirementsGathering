@@ -1,5 +1,0 @@
-wx
-alert
-france
-paris
-snow

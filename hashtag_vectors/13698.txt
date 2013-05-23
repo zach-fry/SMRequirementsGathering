@@ -1,3 +1,0 @@
-crowdmap
-ushahidi
-smem

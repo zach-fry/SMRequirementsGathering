@@ -1,5 +1,0 @@
-nemo
-boston
-hartford
-nyc
-wx

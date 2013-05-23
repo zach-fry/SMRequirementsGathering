@@ -1,4 +1,0 @@
-sm
-cinema
-movietime
-21st

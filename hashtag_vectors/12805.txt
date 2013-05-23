@@ -1,4 +1,0 @@
-agid
-corepublicservice
-egov
-opendata

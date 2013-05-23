@@ -1,4 +1,0 @@
-atl
-news
-gawx
-wx

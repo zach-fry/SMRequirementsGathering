@@ -1,6 +1,0 @@
-web
-communication
-design
-multimedia
-ia
-sm

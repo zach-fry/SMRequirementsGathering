@@ -1,4 +1,0 @@
-lagov
-latech
-egov
-mgov

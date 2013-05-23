@@ -1,0 +1,132 @@
+{
+    "completed_in": 0.067000000000000004, 
+    "max_id_str": "304972398036414465", 
+    "since_id_str": "304972263013355521", 
+    "refresh_url": "?since_id=304972398036414465&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": "Aggeliki Androutsopo", 
+            "to_user_id_str": "159513173", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1425959344/profile_photo_normal.jpg", 
+            "from_user_id_str": "163192449", 
+            "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;", 
+            "text": "@aggeliki_andr presents the #PADGETS project in #open  #government #egov workshop at #NCSR premises. http://t.co/3ZROqVoBgt", 
+            "from_user_name": "Harris Alexopoulos", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1425959344/profile_photo_normal.jpg", 
+            "id": 304972398036414465, 
+            "to_user": "aggeliki_andr", 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 159513173, 
+                        "indices": [
+                            0, 
+                            14
+                        ], 
+                        "id_str": "159513173", 
+                        "screen_name": "aggeliki_andr", 
+                        "name": "Aggeliki Androutsopo"
+                    }
+                ], 
+                "media": [
+                    {
+                        "expanded_url": "http://twitter.com/xalexopoulos/status/304972398036414465/photo/1", 
+                        "display_url": "pic.twitter.com/3ZROqVoBgt", 
+                        "url": "http://t.co/3ZROqVoBgt", 
+                        "media_url_https": "https://pbs.twimg.com/media/BDt6x7uCcAA1o0-.jpg", 
+                        "id_str": "304972398040608768", 
+                        "sizes": {
+                            "large": {
+                                "h": 768, 
+                                "resize": "fit", 
+                                "w": 1024
+                            }, 
+                            "small": {
+                                "h": 255, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "medium": {
+                                "h": 450, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }, 
+                            "orig": {
+                                "h": 2448, 
+                                "resize": "fit", 
+                                "w": 3264
+                            }
+                        }, 
+                        "indices": [
+                            101, 
+                            123
+                        ], 
+                        "type": "photo", 
+                        "id": 304972398040608768, 
+                        "media_url": "http://pbs.twimg.com/media/BDt6x7uCcAA1o0-.jpg"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            28, 
+                            36
+                        ], 
+                        "text": "PADGETS"
+                    }, 
+                    {
+                        "indices": [
+                            48, 
+                            53
+                        ], 
+                        "text": "open"
+                    }, 
+                    {
+                        "indices": [
+                            55, 
+                            66
+                        ], 
+                        "text": "government"
+                    }, 
+                    {
+                        "indices": [
+                            67, 
+                            72
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            85, 
+                            90
+                        ], 
+                        "text": "NCSR"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "id_str": "304972398036414465", 
+            "from_user": "xalexopoulos", 
+            "from_user_id": 163192449, 
+            "to_user_id": 159513173, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 15:14:20 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304972263013355521, 
+    "results_per_page": 100, 
+    "time": "15:15", 
+    "date": "02-22-2013", 
+    "query": "%23EGov", 
+    "max_id": 304972398036414465, 
+    "page": 1
+}

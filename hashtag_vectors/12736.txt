@@ -1,4 +1,0 @@
-publicservice
-egov
-opendata
-interoperability

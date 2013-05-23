@@ -1,6 +1,0 @@
-satellite
-noreaster
-snow
-weather
-blizzard
-wx

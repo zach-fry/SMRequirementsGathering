@@ -1,9 +1,0 @@
-uk
-severe
-weather
-flood
-wales
-england
-scotland
-wx
-news

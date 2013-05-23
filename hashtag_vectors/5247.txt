@@ -1,4 +1,0 @@
-wx
-news
-blizzard
-weather

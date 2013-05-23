@@ -1,5 +1,0 @@
-smem
-galveston
-texas
-ipaws
-disaster

@@ -1,4 +1,0 @@
-wx
-tornado
-severe
-fb

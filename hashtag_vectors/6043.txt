@@ -1,3 +1,0 @@
-climatechange
-weather
-wx

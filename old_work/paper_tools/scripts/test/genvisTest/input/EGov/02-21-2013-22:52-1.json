@@ -1,0 +1,74 @@
+{
+    "completed_in": 0.048000000000000001, 
+    "max_id_str": "304725108625399809", 
+    "since_id_str": "304724879410868224", 
+    "refresh_url": "?since_id=304725108625399809&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Bungeni-Build-and-Test #788 (broken since build #767):  http://t.co/gxZlZfb0Pu #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 304725108625399809, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            89, 
+                            97
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            98, 
+                            103
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/gxZlZfb0Pu", 
+                        "indices": [
+                            66, 
+                            88
+                        ], 
+                        "expanded_url": "http://bit.ly/13oIgNN", 
+                        "display_url": "bit.ly/13oIgNN"
+                    }
+                ]
+            }, 
+            "id_str": "304725108625399809", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 21 Feb 2013 22:51:42 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304724879410868224, 
+    "results_per_page": 100, 
+    "time": "22:52", 
+    "date": "02-21-2013", 
+    "query": "%23EGov", 
+    "max_id": 304725108625399809, 
+    "page": 1
+}

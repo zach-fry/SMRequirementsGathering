@@ -1,5 +1,0 @@
-movietickets
-concerttickets
-dates
-trinoma
-sm

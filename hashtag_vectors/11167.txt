@@ -1,5 +1,0 @@
-media
-mobile
-journalism
-ugc
-sm

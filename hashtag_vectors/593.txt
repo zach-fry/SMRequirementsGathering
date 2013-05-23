@@ -1,4 +1,0 @@
-mobile
-gov20
-fedgov
-military

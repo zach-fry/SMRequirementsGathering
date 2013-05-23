@@ -1,5 +1,0 @@
-cary
-opendata
-hackathon
-opengov
-gov20

@@ -1,8 +1,0 @@
-smartdata
-web30
-semanticweb
-bigdata
-linkeddata
-smartdata
-opengov
-gov20

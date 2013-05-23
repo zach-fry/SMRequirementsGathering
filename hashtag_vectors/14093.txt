@@ -1,2 +1,0 @@
-fdem
-smem

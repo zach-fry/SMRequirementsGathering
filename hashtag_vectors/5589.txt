@@ -1,3 +1,0 @@
-atl
-wx
-gawx

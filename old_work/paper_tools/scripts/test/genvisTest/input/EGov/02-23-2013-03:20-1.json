@@ -1,0 +1,74 @@
+{
+    "completed_in": 0.025999999999999999, 
+    "max_id_str": "305154905704906752", 
+    "since_id_str": "305154713379287040", 
+    "refresh_url": "?since_id=305154905704906752&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov thread: gitec - problema restauracao de backup sapl 2.2: Boa noite pessoal! Recent... http://t.co/1cEdnT3B6B #Interlegis #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 305154905704906752, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            119, 
+                            130
+                        ], 
+                        "text": "Interlegis"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/1cEdnT3B6B", 
+                        "indices": [
+                            96, 
+                            118
+                        ], 
+                        "expanded_url": "http://bit.ly/XIz5qA", 
+                        "display_url": "bit.ly/XIz5qA"
+                    }
+                ]
+            }, 
+            "id_str": "305154905704906752", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sat, 23 Feb 2013 03:19:33 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 305154713379287040, 
+    "results_per_page": 100, 
+    "time": "03:20", 
+    "date": "02-23-2013", 
+    "query": "%23EGov", 
+    "max_id": 305154905704906752, 
+    "page": 1
+}

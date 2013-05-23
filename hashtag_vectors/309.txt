@@ -1,4 +1,0 @@
-opendata
-germany
-opengov
-gov20

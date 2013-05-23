@@ -1,6 +1,0 @@
-nyc
-blizzard
-snowstorm
-smem
-newyork
-wx

@@ -1,4 +1,0 @@
-earthquakes
-shakemap
-hsem
-quake

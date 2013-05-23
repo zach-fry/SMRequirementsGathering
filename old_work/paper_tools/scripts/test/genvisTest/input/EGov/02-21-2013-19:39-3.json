@@ -1,0 +1,4969 @@
+{
+    "completed_in": 0.053999999999999999, 
+    "max_id_str": "304674496969846784", 
+    "since_id_str": "0", 
+    "previous_page": "?page=2&max_id=304674496969846784&q=%23EGov&lang=en&rpp=100&include_entities=1&result_type=recent", 
+    "refresh_url": "?since_id=304674496969846784&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1408295913/IEEETMCTWE_normal.png", 
+            "from_user_id_str": "312162000", 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "text": "RT @IEEE_eGov: Index of PhD #Thesis on #eGov - Add yours- #IEEE eGov STC http://t.co/G6qfIf8w cc @ieeeorg @computersociety @computingnow @TheOfficialACM", 
+            "from_user_name": "Management at IEEE", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1408295913/IEEETMCTWE_normal.png", 
+            "id": 303007813934919681, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 780032935, 
+                        "indices": [
+                            3, 
+                            13
+                        ], 
+                        "id_str": "780032935", 
+                        "screen_name": "IEEE_eGov", 
+                        "name": "IEEE eGovernment STC"
+                    }, 
+                    {
+                        "id": 54290504, 
+                        "indices": [
+                            97, 
+                            105
+                        ], 
+                        "id_str": "54290504", 
+                        "screen_name": "IEEEorg", 
+                        "name": "IEEEorg"
+                    }, 
+                    {
+                        "id": 52220019, 
+                        "indices": [
+                            106, 
+                            122
+                        ], 
+                        "id_str": "52220019", 
+                        "screen_name": "ComputerSociety", 
+                        "name": "ComputerSociety"
+                    }, 
+                    {
+                        "id": 19297246, 
+                        "indices": [
+                            123, 
+                            136
+                        ], 
+                        "id_str": "19297246", 
+                        "screen_name": "computingnow", 
+                        "name": "Computing Now"
+                    }, 
+                    {
+                        "id": 115763683, 
+                        "indices": [
+                            137, 
+                            152
+                        ], 
+                        "id_str": "115763683", 
+                        "screen_name": "TheOfficialACM", 
+                        "name": "Official ACM"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            28, 
+                            35
+                        ], 
+                        "text": "Thesis"
+                    }, 
+                    {
+                        "indices": [
+                            39, 
+                            44
+                        ], 
+                        "text": "eGov"
+                    }, 
+                    {
+                        "indices": [
+                            58, 
+                            63
+                        ], 
+                        "text": "IEEE"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/G6qfIf8w", 
+                        "indices": [
+                            73, 
+                            93
+                        ], 
+                        "expanded_url": "http://sco.lt/89OdsH", 
+                        "display_url": "sco.lt/89OdsH"
+                    }
+                ]
+            }, 
+            "id_str": "303007813934919681", 
+            "from_user": "IEEETMCSpain", 
+            "from_user_id": 312162000, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sun, 17 Feb 2013 05:07:47 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1706394786/CarlosFaceBW_normal.jpg", 
+            "from_user_id_str": "49570504", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "text": "RT @IEEE_eGov: Index of PhD #Thesis on #eGov - Add yours- #IEEE eGov STC http://t.co/G6qfIf8w cc @ieeeorg @computersociety @computingnow @TheOfficialACM", 
+            "from_user_name": "Carlos E. Jimenez", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1706394786/CarlosFaceBW_normal.jpg", 
+            "id": 303007389500731393, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 780032935, 
+                        "indices": [
+                            3, 
+                            13
+                        ], 
+                        "id_str": "780032935", 
+                        "screen_name": "IEEE_eGov", 
+                        "name": "IEEE eGovernment STC"
+                    }, 
+                    {
+                        "id": 54290504, 
+                        "indices": [
+                            97, 
+                            105
+                        ], 
+                        "id_str": "54290504", 
+                        "screen_name": "IEEEorg", 
+                        "name": "IEEEorg"
+                    }, 
+                    {
+                        "id": 52220019, 
+                        "indices": [
+                            106, 
+                            122
+                        ], 
+                        "id_str": "52220019", 
+                        "screen_name": "ComputerSociety", 
+                        "name": "ComputerSociety"
+                    }, 
+                    {
+                        "id": 19297246, 
+                        "indices": [
+                            123, 
+                            136
+                        ], 
+                        "id_str": "19297246", 
+                        "screen_name": "computingnow", 
+                        "name": "Computing Now"
+                    }, 
+                    {
+                        "id": 115763683, 
+                        "indices": [
+                            137, 
+                            152
+                        ], 
+                        "id_str": "115763683", 
+                        "screen_name": "TheOfficialACM", 
+                        "name": "Official ACM"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            28, 
+                            35
+                        ], 
+                        "text": "Thesis"
+                    }, 
+                    {
+                        "indices": [
+                            39, 
+                            44
+                        ], 
+                        "text": "eGov"
+                    }, 
+                    {
+                        "indices": [
+                            58, 
+                            63
+                        ], 
+                        "text": "IEEE"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/G6qfIf8w", 
+                        "indices": [
+                            73, 
+                            93
+                        ], 
+                        "expanded_url": "http://sco.lt/89OdsH", 
+                        "display_url": "sco.lt/89OdsH"
+                    }
+                ]
+            }, 
+            "id_str": "303007389500731393", 
+            "from_user": "estratic", 
+            "from_user_id": 49570504, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sun, 17 Feb 2013 05:06:05 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2811462425/59c884f45347369944d952a9c3fae100_normal.jpeg", 
+            "from_user_id_str": "780032935", 
+            "source": "&lt;a href=&quot;http://www.scoop.it&quot;&gt;Scoop.it&lt;/a&gt;", 
+            "text": "Index of PhD #Thesis on #eGov - Add yours- #IEEE eGov STC http://t.co/G6qfIf8w cc @ieeeorg @computersociety @computingnow @TheOfficialACM", 
+            "from_user_name": "IEEE eGovernment STC", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2811462425/59c884f45347369944d952a9c3fae100_normal.jpeg", 
+            "id": 303006665563848704, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 54290504, 
+                        "indices": [
+                            82, 
+                            90
+                        ], 
+                        "id_str": "54290504", 
+                        "screen_name": "IEEEorg", 
+                        "name": "IEEEorg"
+                    }, 
+                    {
+                        "id": 52220019, 
+                        "indices": [
+                            91, 
+                            107
+                        ], 
+                        "id_str": "52220019", 
+                        "screen_name": "ComputerSociety", 
+                        "name": "ComputerSociety"
+                    }, 
+                    {
+                        "id": 19297246, 
+                        "indices": [
+                            108, 
+                            121
+                        ], 
+                        "id_str": "19297246", 
+                        "screen_name": "computingnow", 
+                        "name": "Computing Now"
+                    }, 
+                    {
+                        "id": 115763683, 
+                        "indices": [
+                            122, 
+                            137
+                        ], 
+                        "id_str": "115763683", 
+                        "screen_name": "TheOfficialACM", 
+                        "name": "Official ACM"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            13, 
+                            20
+                        ], 
+                        "text": "Thesis"
+                    }, 
+                    {
+                        "indices": [
+                            24, 
+                            29
+                        ], 
+                        "text": "eGov"
+                    }, 
+                    {
+                        "indices": [
+                            43, 
+                            48
+                        ], 
+                        "text": "IEEE"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/G6qfIf8w", 
+                        "indices": [
+                            58, 
+                            78
+                        ], 
+                        "expanded_url": "http://sco.lt/89OdsH", 
+                        "display_url": "sco.lt/89OdsH"
+                    }
+                ]
+            }, 
+            "id_str": "303006665563848704", 
+            "from_user": "IEEE_eGov", 
+            "from_user_id": 780032935, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sun, 17 Feb 2013 05:03:13 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2250382429/image_normal.jpg", 
+            "from_user_id_str": "109780891", 
+            "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "text": "RT @dfletcher: Check out this awesome dashboard monitoring progress in implementing Europe's Digital Agenda!  http://t.co/q3kMgyzi #egov", 
+            "from_user_name": "Adam Holthouse", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2250382429/image_normal.jpg", 
+            "id": 303002682237517824, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 11993412, 
+                        "indices": [
+                            3, 
+                            13
+                        ], 
+                        "id_str": "11993412", 
+                        "screen_name": "dfletcher", 
+                        "name": "dfletcher"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/q3kMgyzi", 
+                        "indices": [
+                            110, 
+                            130
+                        ], 
+                        "expanded_url": "http://daeimplementation.eu/dashboard2.php", 
+                        "display_url": "daeimplementation.eu/dashboard2.php"
+                    }
+                ]
+            }, 
+            "id_str": "303002682237517824", 
+            "from_user": "AdamHolthouse", 
+            "from_user_id": 109780891, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sun, 17 Feb 2013 04:47:23 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1834957227/LB6h_normal.jpg", 
+            "from_user_id_str": "3021611", 
+            "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "text": "RT @dfletcher: Check out this awesome dashboard monitoring progress in implementing Europe's Digital Agenda!  http://t.co/q3kMgyzi #egov", 
+            "from_user_name": "Jonathan Reichental", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1834957227/LB6h_normal.jpg", 
+            "id": 302996705463398401, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 11993412, 
+                        "indices": [
+                            3, 
+                            13
+                        ], 
+                        "id_str": "11993412", 
+                        "screen_name": "dfletcher", 
+                        "name": "dfletcher"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/q3kMgyzi", 
+                        "indices": [
+                            110, 
+                            130
+                        ], 
+                        "expanded_url": "http://daeimplementation.eu/dashboard2.php", 
+                        "display_url": "daeimplementation.eu/dashboard2.php"
+                    }
+                ]
+            }, 
+            "id_str": "302996705463398401", 
+            "from_user": "Reichental", 
+            "from_user_id": 3021611, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sun, 17 Feb 2013 04:23:38 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/91006258/df3_normal.jpg", 
+            "from_user_id_str": "11993412", 
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot;&gt;Twitter for iPad&lt;/a&gt;", 
+            "text": "Check out this awesome dashboard monitoring progress in implementing Europe's Digital Agenda!  http://t.co/q3kMgyzi #egov", 
+            "from_user_name": "dfletcher", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/91006258/df3_normal.jpg", 
+            "id": 302985967244038145, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            116, 
+                            121
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/q3kMgyzi", 
+                        "indices": [
+                            95, 
+                            115
+                        ], 
+                        "expanded_url": "http://daeimplementation.eu/dashboard2.php", 
+                        "display_url": "daeimplementation.eu/dashboard2.php"
+                    }
+                ]
+            }, 
+            "id_str": "302985967244038145", 
+            "from_user": "dfletcher", 
+            "from_user_id": 11993412, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sun, 17 Feb 2013 03:40:58 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/91006258/df3_normal.jpg", 
+            "from_user_id_str": "11993412", 
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot;&gt;Twitter for iPad&lt;/a&gt;", 
+            "text": "Reading Jane Fountain's report on Implementing Cross-Agency Collaboration http://t.co/gfggEkFv #egov", 
+            "from_user_name": "dfletcher", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/91006258/df3_normal.jpg", 
+            "id": 302984717152702465, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            95, 
+                            100
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/gfggEkFv", 
+                        "indices": [
+                            74, 
+                            94
+                        ], 
+                        "expanded_url": "http://www.businessofgovernment.org/sites/default/files/Implementing%20Cross%20Agency%20Collaboration.pdf", 
+                        "display_url": "businessofgovernment.org/sites/default/\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "302984717152702465", 
+            "from_user": "dfletcher", 
+            "from_user_id": 11993412, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sun, 17 Feb 2013 03:36:00 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Bungeni-Build-and-Test #783 (broken since build #767):  http://t.co/tv6SIb3c #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302890628050722816, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            87, 
+                            95
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            96, 
+                            101
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/tv6SIb3c", 
+                        "indices": [
+                            66, 
+                            86
+                        ], 
+                        "expanded_url": "http://bit.ly/XPE7Tf", 
+                        "display_url": "bit.ly/XPE7Tf"
+                    }
+                ]
+            }, 
+            "id_str": "302890628050722816", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sat, 16 Feb 2013 21:22:07 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": "GovDelivery", 
+            "to_user_id_str": "14401102", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2697997757/883158f3a9d041a0b9bcfae60865dac0_normal.png", 
+            "from_user_id_str": "869698788", 
+            "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;", 
+            "text": "@GovDelivery: Is #bigdata essential or the latest marketing-driven buzz word? | Reach The Public http://t.co/38pPTGwa #egov", 
+            "from_user_name": "Gobierno Documental", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2697997757/883158f3a9d041a0b9bcfae60865dac0_normal.png", 
+            "id": 302858626538811394, 
+            "to_user": "GovDelivery", 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 14401102, 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "id_str": "14401102", 
+                        "screen_name": "GovDelivery", 
+                        "name": "GovDelivery"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            17, 
+                            25
+                        ], 
+                        "text": "bigdata"
+                    }, 
+                    {
+                        "indices": [
+                            118, 
+                            123
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/38pPTGwa", 
+                        "indices": [
+                            97, 
+                            117
+                        ], 
+                        "expanded_url": "http://bit.ly/Vfv0x5", 
+                        "display_url": "bit.ly/Vfv0x5"
+                    }
+                ]
+            }, 
+            "id_str": "302858626538811394", 
+            "from_user": "egovDoc", 
+            "from_user_id": 869698788, 
+            "to_user_id": 14401102, 
+            "geo": null, 
+            "created_at": "Sat, 16 Feb 2013 19:14:58 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2974444344/50c802200f023e7826cb78cc1ec78d89_normal.png", 
+            "from_user_id_str": "200508866", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "text": "RT @egovcomde: Ja zu #OpenData und #OSS, aber #eGovernment ist kein Thema http://t.co/m70tQTR9 #eGov #OGD @gruenelvnds @SPDNDS", 
+            "from_user_name": "Chef Goldene Horde", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2974444344/50c802200f023e7826cb78cc1ec78d89_normal.png", 
+            "id": 302818068135026690, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 57761040, 
+                        "indices": [
+                            3, 
+                            13
+                        ], 
+                        "id_str": "57761040", 
+                        "screen_name": "egovcomde", 
+                        "name": "eGovernmentComputing"
+                    }, 
+                    {
+                        "id": 135814941, 
+                        "indices": [
+                            106, 
+                            118
+                        ], 
+                        "id_str": "135814941", 
+                        "screen_name": "gruenelvnds", 
+                        "name": "GR\u00dcNE Niedersachsen"
+                    }, 
+                    {
+                        "id": 17483704, 
+                        "indices": [
+                            119, 
+                            126
+                        ], 
+                        "id_str": "17483704", 
+                        "screen_name": "SPDNDS", 
+                        "name": "SPD-LV Niedersachsen"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            21, 
+                            30
+                        ], 
+                        "text": "OpenData"
+                    }, 
+                    {
+                        "indices": [
+                            35, 
+                            39
+                        ], 
+                        "text": "OSS"
+                    }, 
+                    {
+                        "indices": [
+                            46, 
+                            58
+                        ], 
+                        "text": "eGovernment"
+                    }, 
+                    {
+                        "indices": [
+                            95, 
+                            100
+                        ], 
+                        "text": "eGov"
+                    }, 
+                    {
+                        "indices": [
+                            101, 
+                            105
+                        ], 
+                        "text": "OGD"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/m70tQTR9", 
+                        "indices": [
+                            74, 
+                            94
+                        ], 
+                        "expanded_url": "http://www.egovernment-computing.de/projekte/articles/394858/", 
+                        "display_url": "egovernment-computing.de/projekte/artic\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "302818068135026690", 
+            "from_user": "ostpirat", 
+            "from_user_id": 200508866, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sat, 16 Feb 2013 16:33:48 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2810822136/9f6e050e5182adceab1b118380af2e24_normal.jpeg", 
+            "from_user_id_str": "57761040", 
+            "source": "&lt;a href=&quot;http://twitter.com/tweetbutton&quot;&gt;Tweet Button&lt;/a&gt;", 
+            "text": "Ja zu #OpenData und #OSS, aber #eGovernment ist kein Thema http://t.co/m70tQTR9 #eGov #OGD @gruenelvnds @SPDNDS", 
+            "from_user_name": "eGovernmentComputing", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2810822136/9f6e050e5182adceab1b118380af2e24_normal.jpeg", 
+            "id": 302817888904019969, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 135814941, 
+                        "indices": [
+                            91, 
+                            103
+                        ], 
+                        "id_str": "135814941", 
+                        "screen_name": "gruenelvnds", 
+                        "name": "GR\u00dcNE Niedersachsen"
+                    }, 
+                    {
+                        "id": 17483704, 
+                        "indices": [
+                            104, 
+                            111
+                        ], 
+                        "id_str": "17483704", 
+                        "screen_name": "SPDNDS", 
+                        "name": "SPD-LV Niedersachsen"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            6, 
+                            15
+                        ], 
+                        "text": "OpenData"
+                    }, 
+                    {
+                        "indices": [
+                            20, 
+                            24
+                        ], 
+                        "text": "OSS"
+                    }, 
+                    {
+                        "indices": [
+                            31, 
+                            43
+                        ], 
+                        "text": "eGovernment"
+                    }, 
+                    {
+                        "indices": [
+                            80, 
+                            85
+                        ], 
+                        "text": "eGov"
+                    }, 
+                    {
+                        "indices": [
+                            86, 
+                            90
+                        ], 
+                        "text": "OGD"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/m70tQTR9", 
+                        "indices": [
+                            59, 
+                            79
+                        ], 
+                        "expanded_url": "http://www.egovernment-computing.de/projekte/articles/394858/", 
+                        "display_url": "egovernment-computing.de/projekte/artic\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "302817888904019969", 
+            "from_user": "egovcomde", 
+            "from_user_id": 57761040, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sat, 16 Feb 2013 16:33:05 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2882756523/8e93cf8c9290891c1fe79aece3486b72_normal.jpeg", 
+            "from_user_id_str": "138690086", 
+            "source": "&lt;a href=&quot;http://www.sharedby.co&quot;&gt;SharedBy&lt;/a&gt;", 
+            "text": "#oGov #eGov #AAPP news http://t.co/Vvt2CHGQ - top stories by _opendata, sueldospublicos, tuderechoasaber", 
+            "from_user_name": "Gabriel Navarro", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2882756523/8e93cf8c9290891c1fe79aece3486b72_normal.jpeg", 
+            "id": 302764632756588544, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            5
+                        ], 
+                        "text": "oGov"
+                    }, 
+                    {
+                        "indices": [
+                            6, 
+                            11
+                        ], 
+                        "text": "eGov"
+                    }, 
+                    {
+                        "indices": [
+                            12, 
+                            17
+                        ], 
+                        "text": "AAPP"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/Vvt2CHGQ", 
+                        "indices": [
+                            23, 
+                            43
+                        ], 
+                        "expanded_url": "http://shrd.by/bZljhx", 
+                        "display_url": "shrd.by/bZljhx"
+                    }
+                ]
+            }, 
+            "id_str": "302764632756588544", 
+            "from_user": "kuunga", 
+            "from_user_id": 138690086, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sat, 16 Feb 2013 13:01:28 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3028670471/fd00db7a27c462027c32a893d6357832_normal.jpeg", 
+            "from_user_id_str": "40248813", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "text": "#Australia not different from #sPain and #Catalonia:not support for free OS like GNU/linux. #egov ? just #blahblah  http://t.co/IWY2kCpL", 
+            "from_user_name": "jaume nualart ||*||", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/3028670471/fd00db7a27c462027c32a893d6357832_normal.jpeg", 
+            "id": 302759986658963456, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "text": "Australia"
+                    }, 
+                    {
+                        "indices": [
+                            30, 
+                            36
+                        ], 
+                        "text": "sPain"
+                    }, 
+                    {
+                        "indices": [
+                            41, 
+                            51
+                        ], 
+                        "text": "Catalonia"
+                    }, 
+                    {
+                        "indices": [
+                            92, 
+                            97
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            105, 
+                            114
+                        ], 
+                        "text": "blahblah"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/IWY2kCpL", 
+                        "indices": [
+                            116, 
+                            136
+                        ], 
+                        "expanded_url": "http://help.abr.gov.au/BC/Supporting_Information/Technical_support/Technical_information/#AUSkey", 
+                        "display_url": "help.abr.gov.au/BC/Supporting_\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "302759986658963456", 
+            "from_user": "jaumetet", 
+            "from_user_id": 40248813, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sat, 16 Feb 2013 12:43:00 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1216059104/cddrl_logo_normal.gif", 
+            "from_user_id_str": "238436945", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "2 Civic Hackers On Why Open Government Isn't That Hard http://t.co/ruCksCxf by @TechPresident's @nclarkjudd #TechPresident #OpenGov #eGov", 
+            "from_user_name": "Liberationtech", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1216059104/cddrl_logo_normal.gif", 
+            "id": 302588150562312192, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 14946200, 
+                        "indices": [
+                            79, 
+                            93
+                        ], 
+                        "id_str": "14946200", 
+                        "screen_name": "techpresident", 
+                        "name": "techPresident"
+                    }, 
+                    {
+                        "id": 16725416, 
+                        "indices": [
+                            96, 
+                            107
+                        ], 
+                        "id_str": "16725416", 
+                        "screen_name": "nclarkjudd", 
+                        "name": "Nick Judd"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            108, 
+                            122
+                        ], 
+                        "text": "TechPresident"
+                    }, 
+                    {
+                        "indices": [
+                            123, 
+                            131
+                        ], 
+                        "text": "OpenGov"
+                    }, 
+                    {
+                        "indices": [
+                            132, 
+                            137
+                        ], 
+                        "text": "eGov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/ruCksCxf", 
+                        "indices": [
+                            55, 
+                            75
+                        ], 
+                        "expanded_url": "http://is.gd/tEtzlF", 
+                        "display_url": "is.gd/tEtzlF"
+                    }
+                ]
+            }, 
+            "id_str": "302588150562312192", 
+            "from_user": "Liberationtech", 
+            "from_user_id": 238436945, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Sat, 16 Feb 2013 01:20:11 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2386404347/0l95hcbuboyuyacj1ae7_normal.jpeg", 
+            "from_user_id_str": "82007271", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "text": "Watch my 45-second #GovGirl video montage! http://t.co/sV1mry2g #gov20 #egov #localgov", 
+            "from_user_name": "Kristy Fifelski", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2386404347/0l95hcbuboyuyacj1ae7_normal.jpeg", 
+            "id": 302560866681896961, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            19, 
+                            27
+                        ], 
+                        "text": "GovGirl"
+                    }, 
+                    {
+                        "indices": [
+                            64, 
+                            70
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            71, 
+                            76
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            77, 
+                            86
+                        ], 
+                        "text": "localgov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/sV1mry2g", 
+                        "indices": [
+                            43, 
+                            63
+                        ], 
+                        "expanded_url": "http://bit.ly/15iTTJK", 
+                        "display_url": "bit.ly/15iTTJK"
+                    }
+                ]
+            }, 
+            "id_str": "302560866681896961", 
+            "from_user": "kristyfifelski", 
+            "from_user_id": 82007271, 
+            "to_user_id": 0, 
+            "geo": {
+                "type": "Point", 
+                "coordinates": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "created_at": "Fri, 15 Feb 2013 23:31:46 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Revision 10550: [Contrib] Deleting Previously Tree Structure, because the contents were... http://t.co/5TOSOLAf #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302558111472947200, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            122, 
+                            130
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/5TOSOLAf", 
+                        "indices": [
+                            101, 
+                            121
+                        ], 
+                        "expanded_url": "http://bit.ly/12NijXD", 
+                        "display_url": "bit.ly/12NijXD"
+                    }
+                ]
+            }, 
+            "id_str": "302558111472947200", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 23:20:49 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Bungeni-Build-and-Test #782 (broken since build #767):  http://t.co/yaIUJIHq #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302532573106688001, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            87, 
+                            95
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            96, 
+                            101
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/yaIUJIHq", 
+                        "indices": [
+                            66, 
+                            86
+                        ], 
+                        "expanded_url": "http://bit.ly/UosR0r", 
+                        "display_url": "bit.ly/UosR0r"
+                    }
+                ]
+            }, 
+            "id_str": "302532573106688001", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 21:39:20 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2821007004/96a24885cf8e6872f8b2718b6ad3a91c_normal.jpeg", 
+            "from_user_id_str": "78787173", 
+            "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;", 
+            "text": "Retreat w/ King County\u2019s natural resources team at new Bow Lake recycling center. #socialgov #egov http://t.co/5ypmFblb", 
+            "from_user_name": "Derek Belt", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2821007004/96a24885cf8e6872f8b2718b6ad3a91c_normal.jpeg", 
+            "id": 302513167265832960, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "media": [
+                    {
+                        "expanded_url": "http://twitter.com/derekbelt/status/302513167265832960/photo/1", 
+                        "display_url": "pic.twitter.com/5ypmFblb", 
+                        "url": "http://t.co/5ypmFblb", 
+                        "media_url_https": "https://pbs.twimg.com/media/BDK-H3NCIAAwXQQ.jpg", 
+                        "id_str": "302513167274221568", 
+                        "sizes": {
+                            "small": {
+                                "h": 456, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "large": {
+                                "h": 1024, 
+                                "resize": "fit", 
+                                "w": 764
+                            }, 
+                            "medium": {
+                                "h": 804, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }, 
+                            "orig": {
+                                "h": 1024, 
+                                "resize": "fit", 
+                                "w": 764
+                            }
+                        }, 
+                        "indices": [
+                            99, 
+                            119
+                        ], 
+                        "type": "photo", 
+                        "id": 302513167274221568, 
+                        "media_url": "http://pbs.twimg.com/media/BDK-H3NCIAAwXQQ.jpg"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            82, 
+                            92
+                        ], 
+                        "text": "socialgov"
+                    }, 
+                    {
+                        "indices": [
+                            93, 
+                            98
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "id_str": "302513167265832960", 
+            "from_user": "derekbelt", 
+            "from_user_id": 78787173, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 20:22:14 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3024392936/d843e1f405951185f80374db75c6b65f_normal.jpeg", 
+            "from_user_id_str": "927913633", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "#ChangeStuff on the Affordable Care Act before March 18th, comment to define exemption status! #ACA #Healthcare #eGov #CommentNow", 
+            "from_user_name": "Notice and Comment", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/3024392936/d843e1f405951185f80374db75c6b65f_normal.jpeg", 
+            "id": 302500439398682626, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "text": "ChangeStuff"
+                    }, 
+                    {
+                        "indices": [
+                            95, 
+                            99
+                        ], 
+                        "text": "ACA"
+                    }, 
+                    {
+                        "indices": [
+                            100, 
+                            111
+                        ], 
+                        "text": "Healthcare"
+                    }, 
+                    {
+                        "indices": [
+                            112, 
+                            117
+                        ], 
+                        "text": "eGov"
+                    }, 
+                    {
+                        "indices": [
+                            118, 
+                            129
+                        ], 
+                        "text": "CommentNow"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "id_str": "302500439398682626", 
+            "from_user": "NoticeComment", 
+            "from_user_id": 927913633, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 19:31:39 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2960911231/cd6cb1d0aa2b2c71893c5bd0fcaf65dd_normal.jpeg", 
+            "from_user_id_str": "14163347", 
+            "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;", 
+            "text": "#eGovernment - Core Public Service Vocabulary released for public review | Joinup - https://t.co/E8drCEPw\" #egov", 
+            "from_user_name": "Sergio Agostinelli", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2960911231/cd6cb1d0aa2b2c71893c5bd0fcaf65dd_normal.jpeg", 
+            "id": 302471370489618432, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "text": "eGovernment"
+                    }, 
+                    {
+                        "indices": [
+                            107, 
+                            112
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "https://t.co/E8drCEPw", 
+                        "indices": [
+                            84, 
+                            105
+                        ], 
+                        "expanded_url": "https://joinup.ec.europa.eu/node/62771", 
+                        "display_url": "joinup.ec.europa.eu/node/62771"
+                    }
+                ]
+            }, 
+            "id_str": "302471370489618432", 
+            "from_user": "sagostinelli", 
+            "from_user_id": 14163347, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 17:36:09 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Revision 10548: Improved error checking and handling in OAuth API. Added nonce to autho... http://t.co/s6LtjP4f #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302469406901010432, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            122, 
+                            130
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/s6LtjP4f", 
+                        "indices": [
+                            101, 
+                            121
+                        ], 
+                        "expanded_url": "http://bit.ly/WvdfGN", 
+                        "display_url": "bit.ly/WvdfGN"
+                    }
+                ]
+            }, 
+            "id_str": "302469406901010432", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 17:28:20 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/578317363/twitterProfilePhoto_normal.jpg", 
+            "from_user_id_str": "27291345", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "If your #egov agency uses #Plone as #WCM / #CMS, come share at #psm13 http://t.co/KimJ8Rk8  #gov20 #opengov #InnovateGov #digitalgov", 
+            "from_user_name": "Ken Wasetis", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/578317363/twitterProfilePhoto_normal.jpg", 
+            "id": 302459009108172800, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            8, 
+                            13
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            26, 
+                            32
+                        ], 
+                        "text": "Plone"
+                    }, 
+                    {
+                        "indices": [
+                            36, 
+                            40
+                        ], 
+                        "text": "WCM"
+                    }, 
+                    {
+                        "indices": [
+                            43, 
+                            47
+                        ], 
+                        "text": "CMS"
+                    }, 
+                    {
+                        "indices": [
+                            63, 
+                            69
+                        ], 
+                        "text": "psm13"
+                    }, 
+                    {
+                        "indices": [
+                            92, 
+                            98
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            99, 
+                            107
+                        ], 
+                        "text": "opengov"
+                    }, 
+                    {
+                        "indices": [
+                            108, 
+                            120
+                        ], 
+                        "text": "InnovateGov"
+                    }, 
+                    {
+                        "indices": [
+                            121, 
+                            132
+                        ], 
+                        "text": "digitalgov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/KimJ8Rk8", 
+                        "indices": [
+                            70, 
+                            90
+                        ], 
+                        "expanded_url": "http://goo.gl/xjb76", 
+                        "display_url": "goo.gl/xjb76"
+                    }
+                ]
+            }, 
+            "id_str": "302459009108172800", 
+            "from_user": "ctxlken", 
+            "from_user_id": 27291345, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 16:47:01 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Revision 10547: [custom events] Adding support for adding custom event types.  Adding s... http://t.co/3F1NgM5U #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302458113825595392, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            122, 
+                            130
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/3F1NgM5U", 
+                        "indices": [
+                            101, 
+                            121
+                        ], 
+                        "expanded_url": "http://bit.ly/Vm9syS", 
+                        "display_url": "bit.ly/Vm9syS"
+                    }
+                ]
+            }, 
+            "id_str": "302458113825595392", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 16:43:28 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1455556837/RS_44w_Icon_normal.jpg", 
+            "from_user_id_str": "273434241", 
+            "source": "&lt;a href=&quot;http://measuredvoice.com/&quot;&gt;Measured Voice&lt;/a&gt;", 
+            "text": "New York City's New 'Code Corps,' A Volunteer Force of Techies in Disaster Response - from @techpresident http://t.co/7SVD1ZbB #egov #gov2.0", 
+            "from_user_name": "Revelstone", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1455556837/RS_44w_Icon_normal.jpg", 
+            "id": 302447680628588544, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 14946200, 
+                        "indices": [
+                            91, 
+                            105
+                        ], 
+                        "id_str": "14946200", 
+                        "screen_name": "techpresident", 
+                        "name": "techPresident"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            127, 
+                            132
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            133, 
+                            138
+                        ], 
+                        "text": "gov2"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/7SVD1ZbB", 
+                        "indices": [
+                            106, 
+                            126
+                        ], 
+                        "expanded_url": "http://bit.ly/Z2vuDY", 
+                        "display_url": "bit.ly/Z2vuDY"
+                    }
+                ]
+            }, 
+            "id_str": "302447680628588544", 
+            "from_user": "Revelstone", 
+            "from_user_id": 273434241, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 16:02:00 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Onwards: m docs/changes.rst\nm setup.py\n\n      Onwards http://t.co/YHOCDBdh #Euphorie #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302443160620109824, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            85, 
+                            94
+                        ], 
+                        "text": "Euphorie"
+                    }, 
+                    {
+                        "indices": [
+                            95, 
+                            100
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/YHOCDBdh", 
+                        "indices": [
+                            64, 
+                            84
+                        ], 
+                        "expanded_url": "http://bit.ly/WuPyym", 
+                        "display_url": "bit.ly/WuPyym"
+                    }
+                ]
+            }, 
+            "id_str": "302443160620109824", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 15:44:03 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3014902985/bf89cb23261ed91ced963aabecbfaffa_normal.jpeg", 
+            "from_user_id_str": "52041192", 
+            "source": "&lt;a href=&quot;http://manageflitter.com&quot;&gt;ManageFlitter&lt;/a&gt;", 
+            "text": "Three years of research and fun: our 2010-2012 Activity Report (IS Lab in Uni Aegean, Samos) https://t.co/93itSU7R\u2026 #myaegean #egov #gov20", 
+            "from_user_name": "Yannis Charalabidis", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/3014902985/bf89cb23261ed91ced963aabecbfaffa_normal.jpeg", 
+            "id": 302434036830322688, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            116, 
+                            125
+                        ], 
+                        "text": "myaegean"
+                    }, 
+                    {
+                        "indices": [
+                            126, 
+                            131
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            132, 
+                            138
+                        ], 
+                        "text": "gov20"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "https://t.co/93itSU7R", 
+                        "indices": [
+                            93, 
+                            114
+                        ], 
+                        "expanded_url": "https://pithos.grnet.gr/pithos/rest/yannisx@aegean.gr/files/Shared/ISL_Activity_Report_2010-2012.pdf", 
+                        "display_url": "pithos.grnet.gr/pithos/rest/ya\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "302434036830322688", 
+            "from_user": "yannisc", 
+            "from_user_id": 52041192, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 15:07:47 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Prevent buildout restart with distribute pin.: m versions.cfg\n\n      Prevent buildout ... http://t.co/zQcGmLPA #Euphorie #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302432053352345600, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            121, 
+                            130
+                        ], 
+                        "text": "Euphorie"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/zQcGmLPA", 
+                        "indices": [
+                            100, 
+                            120
+                        ], 
+                        "expanded_url": "http://bit.ly/12KH1Ia", 
+                        "display_url": "bit.ly/12KH1Ia"
+                    }
+                ]
+            }, 
+            "id_str": "302432053352345600", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 14:59:55 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3111053912/08d8a7b600c1b98986fa78ffb9bb67bf_normal.jpeg", 
+            "from_user_id_str": "17342353", 
+            "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;", 
+            "text": "The #Top10 Smartest Cities in North America via @FastCoExist \n#USA #Canada #NYC#dc#boston #vancouver #green #tech #innovation #egov #leaders", 
+            "from_user_name": "MLBello", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/3111053912/08d8a7b600c1b98986fa78ffb9bb67bf_normal.jpeg", 
+            "id": 302430020855533569, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 280716675, 
+                        "indices": [
+                            48, 
+                            60
+                        ], 
+                        "id_str": "280716675", 
+                        "screen_name": "FastCoExist", 
+                        "name": "Co.Exist"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            4, 
+                            10
+                        ], 
+                        "text": "Top10"
+                    }, 
+                    {
+                        "indices": [
+                            62, 
+                            66
+                        ], 
+                        "text": "USA"
+                    }, 
+                    {
+                        "indices": [
+                            67, 
+                            74
+                        ], 
+                        "text": "Canada"
+                    }, 
+                    {
+                        "indices": [
+                            90, 
+                            100
+                        ], 
+                        "text": "vancouver"
+                    }, 
+                    {
+                        "indices": [
+                            101, 
+                            107
+                        ], 
+                        "text": "green"
+                    }, 
+                    {
+                        "indices": [
+                            108, 
+                            113
+                        ], 
+                        "text": "tech"
+                    }, 
+                    {
+                        "indices": [
+                            114, 
+                            125
+                        ], 
+                        "text": "innovation"
+                    }, 
+                    {
+                        "indices": [
+                            126, 
+                            131
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            132, 
+                            140
+                        ], 
+                        "text": "leaders"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "id_str": "302430020855533569", 
+            "from_user": "MLBello", 
+            "from_user_id": 17342353, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 14:51:50 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Revision 10546: [Plone] Theme updates - disabling second level navigation for items mar... http://t.co/qbdOr7jZ #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302424214001041409, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            122, 
+                            130
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/qbdOr7jZ", 
+                        "indices": [
+                            101, 
+                            121
+                        ], 
+                        "expanded_url": "http://bit.ly/Wuxzbr", 
+                        "display_url": "bit.ly/Wuxzbr"
+                    }
+                ]
+            }, 
+            "id_str": "302424214001041409", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 14:28:46 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1797288388/photo_normal.jpg", 
+            "from_user_id_str": "20143373", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "text": "What happens when u combine #socialmedia &amp; #bigdata? http://t.co/BM2PtG1k via @washtechnology\nHT @Splunk4Good #socialgov #egov #opengov", 
+            "from_user_name": "Andreas Sandre", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1797288388/photo_normal.jpg", 
+            "id": 302418593402978304, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 17230918, 
+                        "indices": [
+                            82, 
+                            97
+                        ], 
+                        "id_str": "17230918", 
+                        "screen_name": "washtechnology", 
+                        "name": "WashingtonTechnology"
+                    }, 
+                    {
+                        "id": 558131612, 
+                        "indices": [
+                            101, 
+                            113
+                        ], 
+                        "id_str": "558131612", 
+                        "screen_name": "Splunk4Good", 
+                        "name": "Splunk4Good"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            28, 
+                            40
+                        ], 
+                        "text": "socialmedia"
+                    }, 
+                    {
+                        "indices": [
+                            47, 
+                            55
+                        ], 
+                        "text": "bigdata"
+                    }, 
+                    {
+                        "indices": [
+                            114, 
+                            124
+                        ], 
+                        "text": "socialgov"
+                    }, 
+                    {
+                        "indices": [
+                            125, 
+                            130
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            139
+                        ], 
+                        "text": "opengov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/BM2PtG1k", 
+                        "indices": [
+                            57, 
+                            77
+                        ], 
+                        "expanded_url": "http://washingtontechnology.com/articles/2013/02/13/splunk-social-analytics.aspx", 
+                        "display_url": "washingtontechnology.com/articles/2013/\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "302418593402978304", 
+            "from_user": "andreas212nyc", 
+            "from_user_id": 20143373, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 14:06:25 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Another changelog entry.: m docs/changes.rst\n\n      Another changelog entry. http://t.co/wxNHVOr5 #Euphorie #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302411045048295425, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            108, 
+                            117
+                        ], 
+                        "text": "Euphorie"
+                    }, 
+                    {
+                        "indices": [
+                            118, 
+                            123
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/wxNHVOr5", 
+                        "indices": [
+                            87, 
+                            107
+                        ], 
+                        "expanded_url": "http://bit.ly/WukuyO", 
+                        "display_url": "bit.ly/WukuyO"
+                    }
+                ]
+            }, 
+            "id_str": "302411045048295425", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 13:36:26 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2882756523/8e93cf8c9290891c1fe79aece3486b72_normal.jpeg", 
+            "from_user_id_str": "138690086", 
+            "source": "&lt;a href=&quot;http://www.sharedby.co&quot;&gt;SharedBy&lt;/a&gt;", 
+            "text": "#oGov #eGov #AAPP news http://t.co/Vvt2CHGQ - top stories by _opendata, sueldospublicos, LNdata", 
+            "from_user_name": "Gabriel Navarro", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2882756523/8e93cf8c9290891c1fe79aece3486b72_normal.jpeg", 
+            "id": 302402731581263873, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            5
+                        ], 
+                        "text": "oGov"
+                    }, 
+                    {
+                        "indices": [
+                            6, 
+                            11
+                        ], 
+                        "text": "eGov"
+                    }, 
+                    {
+                        "indices": [
+                            12, 
+                            17
+                        ], 
+                        "text": "AAPP"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/Vvt2CHGQ", 
+                        "indices": [
+                            23, 
+                            43
+                        ], 
+                        "expanded_url": "http://shrd.by/bZljhx", 
+                        "display_url": "shrd.by/bZljhx"
+                    }
+                ]
+            }, 
+            "id_str": "302402731581263873", 
+            "from_user": "kuunga", 
+            "from_user_id": 138690086, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 13:03:24 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Repeat .ini upgrade notes here.: m docs/changes.rst\n\n      Repeat .ini upgrade notes here. http://t.co/PNnAUmlv #Euphorie #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302400561406427137, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            122, 
+                            131
+                        ], 
+                        "text": "Euphorie"
+                    }, 
+                    {
+                        "indices": [
+                            132, 
+                            137
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/PNnAUmlv", 
+                        "indices": [
+                            101, 
+                            121
+                        ], 
+                        "expanded_url": "http://bit.ly/UmEZyO", 
+                        "display_url": "bit.ly/UmEZyO"
+                    }
+                ]
+            }, 
+            "id_str": "302400561406427137", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 12:54:46 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3014902985/bf89cb23261ed91ced963aabecbfaffa_normal.jpeg", 
+            "from_user_id_str": "52041192", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "text": "Three years of research and fun: our 2010-2012 Activity Report (IS Lab in Uni Aegean, Samos) https://t.co/93itSU7R #myaegean #egov #gov20", 
+            "from_user_name": "Yannis Charalabidis", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/3014902985/bf89cb23261ed91ced963aabecbfaffa_normal.jpeg", 
+            "id": 302391838432706560, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            115, 
+                            124
+                        ], 
+                        "text": "myaegean"
+                    }, 
+                    {
+                        "indices": [
+                            125, 
+                            130
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            137
+                        ], 
+                        "text": "gov20"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "https://t.co/93itSU7R", 
+                        "indices": [
+                            93, 
+                            114
+                        ], 
+                        "expanded_url": "https://pithos.grnet.gr/pithos/rest/yannisx@aegean.gr/files/Shared/ISL_Activity_Report_2010-2012.pdf", 
+                        "display_url": "pithos.grnet.gr/pithos/rest/ya\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "302391838432706560", 
+            "from_user": "yannisc", 
+            "from_user_id": 52041192, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 12:20:07 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/70951762/PJH-Facebook_normal.jpg", 
+            "from_user_id_str": "14653506", 
+            "source": "&lt;a href=&quot;http://twitter.com/tweetbutton&quot;&gt;Tweet Button&lt;/a&gt;", 
+            "text": "Fair Access to Science and Technology #Research Act Introduced in U.S. House and Senate #gov20 #egov http://t.co/qyPQQSO2", 
+            "from_user_name": "Poul J. Hebsgaard", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/70951762/PJH-Facebook_normal.jpg", 
+            "id": 302377494479261696, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            38, 
+                            47
+                        ], 
+                        "text": "Research"
+                    }, 
+                    {
+                        "indices": [
+                            88, 
+                            94
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            95, 
+                            100
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/qyPQQSO2", 
+                        "indices": [
+                            101, 
+                            121
+                        ], 
+                        "expanded_url": "http://bit.ly/XS4DcF", 
+                        "display_url": "bit.ly/XS4DcF"
+                    }
+                ]
+            }, 
+            "id_str": "302377494479261696", 
+            "from_user": "hebsgaard", 
+            "from_user_id": 14653506, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 11:23:07 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Revision 10545: Correcting typo in r10542, in legislature setup call.  Moving auto-gene... http://t.co/dSzB99xl #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302366789055172608, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            122, 
+                            130
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/dSzB99xl", 
+                        "indices": [
+                            101, 
+                            121
+                        ], 
+                        "expanded_url": "http://bit.ly/XaDsuk", 
+                        "display_url": "bit.ly/XaDsuk"
+                    }
+                ]
+            }, 
+            "id_str": "302366789055172608", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 10:40:34 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3237064732/e62113832f87948f751c8a2ddc122291_normal.png", 
+            "from_user_id_str": "192477353", 
+            "source": "&lt;a href=&quot;http://www.tweetcaster.com&quot;&gt;TweetCaster for Android&lt;/a&gt;", 
+            "text": "RT @grenouillelibre: 10 Ways ICTs Can Support Citizen Engagement with Governments #eparticipation #egov #humanrights #ICT4D @ict_works http://t.co/yW75F5P2", 
+            "from_user_name": "Global Human Rights ", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/3237064732/e62113832f87948f751c8a2ddc122291_normal.png", 
+            "id": 302365668806901760, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 273563228, 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "id_str": "273563228", 
+                        "screen_name": "grenouillelibre", 
+                        "name": "Fr\u00e9d\u00e9ric Kastner"
+                    }, 
+                    {
+                        "id": 52845914, 
+                        "indices": [
+                            124, 
+                            134
+                        ], 
+                        "id_str": "52845914", 
+                        "screen_name": "ICT_Works", 
+                        "name": "ICT_Works"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            82, 
+                            97
+                        ], 
+                        "text": "eparticipation"
+                    }, 
+                    {
+                        "indices": [
+                            98, 
+                            103
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            104, 
+                            116
+                        ], 
+                        "text": "humanrights"
+                    }, 
+                    {
+                        "indices": [
+                            117, 
+                            123
+                        ], 
+                        "text": "ICT4D"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/yW75F5P2", 
+                        "indices": [
+                            135, 
+                            155
+                        ], 
+                        "expanded_url": "http://feedproxy.google.com/~r/Ictworks/~3/izF2RFkFzg0/", 
+                        "display_url": "feedproxy.google.com/~r/Ictworks/~3\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "302365668806901760", 
+            "from_user": "Jeannie_Hartley", 
+            "from_user_id": 192477353, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 10:36:07 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1290563172/1271166_49990274_normal.jpg", 
+            "from_user_id_str": "273563228", 
+            "source": "&lt;a href=&quot;http://twitter.com/tweetbutton&quot;&gt;Tweet Button&lt;/a&gt;", 
+            "text": "10 Ways ICTs Can Support Citizen Engagement with Governments #eparticipation #egov #humanrights #ICT4D @ict_works http://t.co/yW75F5P2", 
+            "from_user_name": "Fr\u00e9d\u00e9ric Kastner", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1290563172/1271166_49990274_normal.jpg", 
+            "id": 302361922009964544, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 52845914, 
+                        "indices": [
+                            103, 
+                            113
+                        ], 
+                        "id_str": "52845914", 
+                        "screen_name": "ICT_Works", 
+                        "name": "ICT_Works"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            61, 
+                            76
+                        ], 
+                        "text": "eparticipation"
+                    }, 
+                    {
+                        "indices": [
+                            77, 
+                            82
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            83, 
+                            95
+                        ], 
+                        "text": "humanrights"
+                    }, 
+                    {
+                        "indices": [
+                            96, 
+                            102
+                        ], 
+                        "text": "ICT4D"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/yW75F5P2", 
+                        "indices": [
+                            114, 
+                            134
+                        ], 
+                        "expanded_url": "http://feedproxy.google.com/~r/Ictworks/~3/izF2RFkFzg0/", 
+                        "display_url": "feedproxy.google.com/~r/Ictworks/~3\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "302361922009964544", 
+            "from_user": "grenouillelibre", 
+            "from_user_id": 273563228, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 10:21:14 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Back to development: 1.2.38a2: m docs/changes.rst\nm setup.py\n\n      Back to developmen... http://t.co/KBDkVpLj #Euphorie #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302340397600997376, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            121, 
+                            130
+                        ], 
+                        "text": "Euphorie"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/KBDkVpLj", 
+                        "indices": [
+                            100, 
+                            120
+                        ], 
+                        "expanded_url": "http://bit.ly/UlXbc2", 
+                        "display_url": "bit.ly/UlXbc2"
+                    }
+                ]
+            }, 
+            "id_str": "302340397600997376", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 08:55:42 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2178210829/Picture_Stela_Mocan_normal.jpg", 
+            "from_user_id_str": "560520600", 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "text": "RT @egovrc: eGovRC Newsletter 14 Feb 2013 http://t.co/UIExySE6 #egov #gov20 #gov2au #gov2vic #opengov #opendata", 
+            "from_user_name": "Stela Mocan", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2178210829/Picture_Stela_Mocan_normal.jpg", 
+            "id": 302295792536940544, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 40103608, 
+                        "indices": [
+                            3, 
+                            10
+                        ], 
+                        "id_str": "40103608", 
+                        "screen_name": "egovrc", 
+                        "name": "eGov Resource Centre"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            63, 
+                            68
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            75
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            76, 
+                            83
+                        ], 
+                        "text": "gov2au"
+                    }, 
+                    {
+                        "indices": [
+                            84, 
+                            92
+                        ], 
+                        "text": "gov2vic"
+                    }, 
+                    {
+                        "indices": [
+                            93, 
+                            101
+                        ], 
+                        "text": "opengov"
+                    }, 
+                    {
+                        "indices": [
+                            102, 
+                            111
+                        ], 
+                        "text": "opendata"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/UIExySE6", 
+                        "indices": [
+                            42, 
+                            62
+                        ], 
+                        "expanded_url": "http://go.vic.gov.au/RN8kWf", 
+                        "display_url": "go.vic.gov.au/RN8kWf"
+                    }
+                ]
+            }, 
+            "id_str": "302295792536940544", 
+            "from_user": "StelaMocan", 
+            "from_user_id": 560520600, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 05:58:27 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Bungeni-Build-and-Test #781 (broken since build #767):  http://t.co/mgC25Vxz #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302292860470980609, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            87, 
+                            95
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            96, 
+                            101
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/mgC25Vxz", 
+                        "indices": [
+                            66, 
+                            86
+                        ], 
+                        "expanded_url": "http://bit.ly/VjluZM", 
+                        "display_url": "bit.ly/VjluZM"
+                    }
+                ]
+            }, 
+            "id_str": "302292860470980609", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 05:46:48 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1058236551/Lg_bubble_png_normal.png", 
+            "from_user_id_str": "14401102", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "Next stops on our #Gov #Digital #Communications Tour: #Seattle &amp; #Salem! Find out more &amp; register now: http://t.co/mwZHI7Am #egov", 
+            "from_user_name": "GovDelivery", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1058236551/Lg_bubble_png_normal.png", 
+            "id": 302258488925646848, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            18, 
+                            22
+                        ], 
+                        "text": "Gov"
+                    }, 
+                    {
+                        "indices": [
+                            23, 
+                            31
+                        ], 
+                        "text": "Digital"
+                    }, 
+                    {
+                        "indices": [
+                            32, 
+                            47
+                        ], 
+                        "text": "Communications"
+                    }, 
+                    {
+                        "indices": [
+                            54, 
+                            62
+                        ], 
+                        "text": "Seattle"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            75
+                        ], 
+                        "text": "Salem"
+                    }, 
+                    {
+                        "indices": [
+                            132, 
+                            137
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/mwZHI7Am", 
+                        "indices": [
+                            111, 
+                            131
+                        ], 
+                        "expanded_url": "http://bit.ly/GDTour2013", 
+                        "display_url": "bit.ly/GDTour2013"
+                    }
+                ]
+            }, 
+            "id_str": "302258488925646848", 
+            "from_user": "GovDelivery", 
+            "from_user_id": 14401102, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 03:30:14 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/482323799/Croakey_normal.jpg", 
+            "from_user_id_str": "82279998", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "text": "RT @egovrc: eGovRC Newsletter 14 Feb 2013 http://t.co/UIExySE6 #egov #gov20 #gov2au #gov2vic #opengov #opendata", 
+            "from_user_name": "Melissa Sweet", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/482323799/Croakey_normal.jpg", 
+            "id": 302247155958173697, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 40103608, 
+                        "indices": [
+                            3, 
+                            10
+                        ], 
+                        "id_str": "40103608", 
+                        "screen_name": "egovrc", 
+                        "name": "eGov Resource Centre"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            63, 
+                            68
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            75
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            76, 
+                            83
+                        ], 
+                        "text": "gov2au"
+                    }, 
+                    {
+                        "indices": [
+                            84, 
+                            92
+                        ], 
+                        "text": "gov2vic"
+                    }, 
+                    {
+                        "indices": [
+                            93, 
+                            101
+                        ], 
+                        "text": "opengov"
+                    }, 
+                    {
+                        "indices": [
+                            102, 
+                            111
+                        ], 
+                        "text": "opendata"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/UIExySE6", 
+                        "indices": [
+                            42, 
+                            62
+                        ], 
+                        "expanded_url": "http://go.vic.gov.au/RN8kWf", 
+                        "display_url": "go.vic.gov.au/RN8kWf"
+                    }
+                ]
+            }, 
+            "id_str": "302247155958173697", 
+            "from_user": "croakeyblog", 
+            "from_user_id": 82279998, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 02:45:12 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1106868279/Gov2.0twitter_normal.png", 
+            "from_user_id_str": "179366908", 
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot;&gt;Twitter for iPad&lt;/a&gt;", 
+            "text": "RT @egovrc: eGovRC Newsletter 14 Feb 2013 http://t.co/UIExySE6 #egov #gov20 #gov2au #gov2vic #opengov #opendata", 
+            "from_user_name": "Gov 2.0 Action Plan", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1106868279/Gov2.0twitter_normal.png", 
+            "id": 302241131855478784, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 40103608, 
+                        "indices": [
+                            3, 
+                            10
+                        ], 
+                        "id_str": "40103608", 
+                        "screen_name": "egovrc", 
+                        "name": "eGov Resource Centre"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            63, 
+                            68
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            75
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            76, 
+                            83
+                        ], 
+                        "text": "gov2au"
+                    }, 
+                    {
+                        "indices": [
+                            84, 
+                            92
+                        ], 
+                        "text": "gov2vic"
+                    }, 
+                    {
+                        "indices": [
+                            93, 
+                            101
+                        ], 
+                        "text": "opengov"
+                    }, 
+                    {
+                        "indices": [
+                            102, 
+                            111
+                        ], 
+                        "text": "opendata"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/UIExySE6", 
+                        "indices": [
+                            42, 
+                            62
+                        ], 
+                        "expanded_url": "http://go.vic.gov.au/RN8kWf", 
+                        "display_url": "go.vic.gov.au/RN8kWf"
+                    }
+                ]
+            }, 
+            "id_str": "302241131855478784", 
+            "from_user": "Gov2Vic", 
+            "from_user_id": 179366908, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 02:21:15 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/545639564/egov_logo_normal.gif", 
+            "from_user_id_str": "40103608", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "eGovRC Newsletter 14 Feb 2013 http://t.co/UIExySE6 #egov #gov20 #gov2au #gov2vic #opengov #opendata", 
+            "from_user_name": "eGov Resource Centre", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/545639564/egov_logo_normal.gif", 
+            "id": 302237739166867457, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            51, 
+                            56
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            57, 
+                            63
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            64, 
+                            71
+                        ], 
+                        "text": "gov2au"
+                    }, 
+                    {
+                        "indices": [
+                            72, 
+                            80
+                        ], 
+                        "text": "gov2vic"
+                    }, 
+                    {
+                        "indices": [
+                            81, 
+                            89
+                        ], 
+                        "text": "opengov"
+                    }, 
+                    {
+                        "indices": [
+                            90, 
+                            99
+                        ], 
+                        "text": "opendata"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/UIExySE6", 
+                        "indices": [
+                            30, 
+                            50
+                        ], 
+                        "expanded_url": "http://go.vic.gov.au/RN8kWf", 
+                        "display_url": "go.vic.gov.au/RN8kWf"
+                    }
+                ]
+            }, 
+            "id_str": "302237739166867457", 
+            "from_user": "egovrc", 
+            "from_user_id": 40103608, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 02:07:46 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1281050326/n74226139268_1564281_1967278_normal.jpg", 
+            "from_user_id_str": "27584385", 
+            "source": "&lt;a href=&quot;http://twitter.com/tweetbutton&quot;&gt;Tweet Button&lt;/a&gt;", 
+            "text": "E-Payment of Court Fees Begun in India - http://t.co/6dUzIWBi @twi #eGov #Gov20 #FutureGov", 
+            "from_user_name": "FutureGov Magazine", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1281050326/n74226139268_1564281_1967278_normal.jpg", 
+            "id": 302223163218079745, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 103770785, 
+                        "indices": [
+                            62, 
+                            66
+                        ], 
+                        "id_str": "103770785", 
+                        "screen_name": "twi", 
+                        "name": "Twitter India"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            67, 
+                            72
+                        ], 
+                        "text": "eGov"
+                    }, 
+                    {
+                        "indices": [
+                            73, 
+                            79
+                        ], 
+                        "text": "Gov20"
+                    }, 
+                    {
+                        "indices": [
+                            80, 
+                            90
+                        ], 
+                        "text": "FutureGov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/6dUzIWBi", 
+                        "indices": [
+                            41, 
+                            61
+                        ], 
+                        "expanded_url": "http://www.futuregov.asia/articles/2013/feb/15/e-payment-court-fees-begun-india/", 
+                        "display_url": "futuregov.asia/articles/2013/\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "302223163218079745", 
+            "from_user": "FutureGovMag", 
+            "from_user_id": 27584385, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 01:09:51 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Do not load javascript to twice.: m src/osha/oira/client/templates/webhelpers.pt\n\n    ... http://t.co/0odI69n1 #Euphorie #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302209988733050880, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            121, 
+                            130
+                        ], 
+                        "text": "Euphorie"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/0odI69n1", 
+                        "indices": [
+                            100, 
+                            120
+                        ], 
+                        "expanded_url": "http://bit.ly/12GT3Cs", 
+                        "display_url": "bit.ly/12GT3Cs"
+                    }
+                ]
+            }, 
+            "id_str": "302209988733050880", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 00:17:30 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2453926705/qwu4qzni5zzk7yre9gqd_normal.jpeg", 
+            "from_user_id_str": "357984165", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "text": "Did you know that in QLD emergency &amp; transport systems are coordinated so lights automatically turn green for ambulances etc? #cool #egov", 
+            "from_user_name": "Paris Cowan", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2453926705/qwu4qzni5zzk7yre9gqd_normal.jpeg", 
+            "id": 302205625734139904, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            130, 
+                            135
+                        ], 
+                        "text": "cool"
+                    }, 
+                    {
+                        "indices": [
+                            136, 
+                            141
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "id_str": "302205625734139904", 
+            "from_user": "ed_intermedium", 
+            "from_user_id": 357984165, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 15 Feb 2013 00:00:10 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Bungeni-Build-and-Test #780 (broken since build #767):  http://t.co/z8Wr7U68 #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302173862852956160, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            87, 
+                            95
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            96, 
+                            101
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/z8Wr7U68", 
+                        "indices": [
+                            66, 
+                            86
+                        ], 
+                        "expanded_url": "http://bit.ly/12lXSWe", 
+                        "display_url": "bit.ly/12lXSWe"
+                    }
+                ]
+            }, 
+            "id_str": "302173862852956160", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 21:53:57 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2594905967/loc95n6h0deg709naanq_normal.jpeg", 
+            "from_user_id_str": "39919087", 
+            "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;", 
+            "text": "RT @derekbelt: LOVE that @kcmetrobus is using #metromance to get riders talking on Valentine's Day! #digitalgov #egov #socialgov #wagov", 
+            "from_user_name": "Sam Altenberger", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2594905967/loc95n6h0deg709naanq_normal.jpeg", 
+            "id": 302163712054276097, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 78787173, 
+                        "indices": [
+                            3, 
+                            13
+                        ], 
+                        "id_str": "78787173", 
+                        "screen_name": "derekbelt", 
+                        "name": "Derek Belt"
+                    }, 
+                    {
+                        "id": 95997861, 
+                        "indices": [
+                            25, 
+                            36
+                        ], 
+                        "id_str": "95997861", 
+                        "screen_name": "kcmetrobus", 
+                        "name": "King County Metro"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            46, 
+                            57
+                        ], 
+                        "text": "metromance"
+                    }, 
+                    {
+                        "indices": [
+                            100, 
+                            111
+                        ], 
+                        "text": "digitalgov"
+                    }, 
+                    {
+                        "indices": [
+                            112, 
+                            117
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            118, 
+                            128
+                        ], 
+                        "text": "socialgov"
+                    }, 
+                    {
+                        "indices": [
+                            129, 
+                            135
+                        ], 
+                        "text": "wagov"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "id_str": "302163712054276097", 
+            "from_user": "SamAltenberger", 
+            "from_user_id": 39919087, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 21:13:37 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2821007004/96a24885cf8e6872f8b2718b6ad3a91c_normal.jpeg", 
+            "from_user_id_str": "78787173", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "text": "LOVE that @kcmetrobus is using #metromance to get riders talking on Valentine's Day! #digitalgov #egov #socialgov #wagov", 
+            "from_user_name": "Derek Belt", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2821007004/96a24885cf8e6872f8b2718b6ad3a91c_normal.jpeg", 
+            "id": 302153285475921920, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 95997861, 
+                        "indices": [
+                            10, 
+                            21
+                        ], 
+                        "id_str": "95997861", 
+                        "screen_name": "kcmetrobus", 
+                        "name": "King County Metro"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            31, 
+                            42
+                        ], 
+                        "text": "metromance"
+                    }, 
+                    {
+                        "indices": [
+                            85, 
+                            96
+                        ], 
+                        "text": "digitalgov"
+                    }, 
+                    {
+                        "indices": [
+                            97, 
+                            102
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            103, 
+                            113
+                        ], 
+                        "text": "socialgov"
+                    }, 
+                    {
+                        "indices": [
+                            114, 
+                            120
+                        ], 
+                        "text": "wagov"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "id_str": "302153285475921920", 
+            "from_user": "derekbelt", 
+            "from_user_id": 78787173, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 20:32:11 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2785638698/3e0f3b724d008c7e48b93708d82fd993_normal.png", 
+            "from_user_id_str": "26346038", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "text": "Share some gov love this valentine's day with gov comment hearts from @civicplus. http://t.co/xqwj8lt8 #egov #valentinesday #digitalgov", 
+            "from_user_name": "Angie Marquart", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2785638698/3e0f3b724d008c7e48b93708d82fd993_normal.png", 
+            "id": 302144333790982144, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 23066511, 
+                        "indices": [
+                            70, 
+                            80
+                        ], 
+                        "id_str": "23066511", 
+                        "screen_name": "CivicPlus", 
+                        "name": "CivicPlus"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            103, 
+                            108
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            109, 
+                            123
+                        ], 
+                        "text": "valentinesday"
+                    }, 
+                    {
+                        "indices": [
+                            124, 
+                            135
+                        ], 
+                        "text": "digitalgov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/xqwj8lt8", 
+                        "indices": [
+                            82, 
+                            102
+                        ], 
+                        "expanded_url": "http://j.mp/XG2u5F", 
+                        "display_url": "j.mp/XG2u5F"
+                    }
+                ]
+            }, 
+            "id_str": "302144333790982144", 
+            "from_user": "apmarquart", 
+            "from_user_id": 26346038, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 19:56:37 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1133816248/govbubble_png_normal.png", 
+            "from_user_id_str": "196531453", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "\"508 Compliance: Best Practices and Lessons Learned\" on @GovLoop http://t.co/3RZcdZS9 #accessibility #gov20 #egov", 
+            "from_user_name": "GovDeliveryUK ", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1133816248/govbubble_png_normal.png", 
+            "id": 302131516107018241, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 15199325, 
+                        "indices": [
+                            56, 
+                            64
+                        ], 
+                        "id_str": "15199325", 
+                        "screen_name": "govloop", 
+                        "name": "Steve Ressler"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            86, 
+                            100
+                        ], 
+                        "text": "accessibility"
+                    }, 
+                    {
+                        "indices": [
+                            101, 
+                            107
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            108, 
+                            113
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/3RZcdZS9", 
+                        "indices": [
+                            65, 
+                            85
+                        ], 
+                        "expanded_url": "http://bit.ly/X7qKxN", 
+                        "display_url": "bit.ly/X7qKxN"
+                    }
+                ]
+            }, 
+            "id_str": "302131516107018241", 
+            "from_user": "GovDeliveryUK", 
+            "from_user_id": 196531453, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 19:05:41 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1058236551/Lg_bubble_png_normal.png", 
+            "from_user_id_str": "14401102", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "\"508 Compliance: Best Practices and Lessons Learned\" on @GovLoop http://t.co/HvB3wwMY #accessibility #gov20 #egov", 
+            "from_user_name": "GovDelivery", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1058236551/Lg_bubble_png_normal.png", 
+            "id": 302128919753158656, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 15199325, 
+                        "indices": [
+                            56, 
+                            64
+                        ], 
+                        "id_str": "15199325", 
+                        "screen_name": "govloop", 
+                        "name": "Steve Ressler"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            86, 
+                            100
+                        ], 
+                        "text": "accessibility"
+                    }, 
+                    {
+                        "indices": [
+                            101, 
+                            107
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            108, 
+                            113
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/HvB3wwMY", 
+                        "indices": [
+                            65, 
+                            85
+                        ], 
+                        "expanded_url": "http://bit.ly/X7qKxN", 
+                        "display_url": "bit.ly/X7qKxN"
+                    }
+                ]
+            }, 
+            "id_str": "302128919753158656", 
+            "from_user": "GovDelivery", 
+            "from_user_id": 14401102, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 18:55:22 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2821007004/96a24885cf8e6872f8b2718b6ad3a91c_normal.jpeg", 
+            "from_user_id_str": "78787173", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "text": "Monthly meeting for the #KingCounty website redesign project. Auditing content is our critical task going forward. #digitalgov #egov", 
+            "from_user_name": "Derek Belt", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2821007004/96a24885cf8e6872f8b2718b6ad3a91c_normal.jpeg", 
+            "id": 302127142815289344, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            24, 
+                            35
+                        ], 
+                        "text": "KingCounty"
+                    }, 
+                    {
+                        "indices": [
+                            115, 
+                            126
+                        ], 
+                        "text": "digitalgov"
+                    }, 
+                    {
+                        "indices": [
+                            127, 
+                            132
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "id_str": "302127142815289344", 
+            "from_user": "derekbelt", 
+            "from_user_id": 78787173, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 18:48:18 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2958206207/e38edbf2c22270f072049be3b7c91df9_normal.png", 
+            "from_user_id_str": "355742837", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "text": "RT @GovDelivery: Is #bigdata essential or the latest marketing-driven buzz word? | Reach The Public http://t.co/MbJ1RCGb #gov20 #egov", 
+            "from_user_name": "Power Almanac", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2958206207/e38edbf2c22270f072049be3b7c91df9_normal.png", 
+            "id": 302122815371497472, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 14401102, 
+                        "indices": [
+                            3, 
+                            15
+                        ], 
+                        "id_str": "14401102", 
+                        "screen_name": "GovDelivery", 
+                        "name": "GovDelivery"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            20, 
+                            28
+                        ], 
+                        "text": "bigdata"
+                    }, 
+                    {
+                        "indices": [
+                            121, 
+                            127
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            128, 
+                            133
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/MbJ1RCGb", 
+                        "indices": [
+                            100, 
+                            120
+                        ], 
+                        "expanded_url": "http://bit.ly/Vfv0x5", 
+                        "display_url": "bit.ly/Vfv0x5"
+                    }
+                ]
+            }, 
+            "id_str": "302122815371497472", 
+            "from_user": "PowerAlmanac", 
+            "from_user_id": 355742837, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 18:31:07 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1866862979/50519_388209157862059_947380685_n_normal.jpg", 
+            "from_user_id_str": "511740616", 
+            "source": "&lt;a href=&quot;http://www.about.me/yvesmulkers&quot;&gt;Retweet rndteam&lt;/a&gt;", 
+            "text": "RT @GovDelivery: Is #bigdata essential or the latest marketing-driven buzz word? | Reach The Public http://t.co/MbJ1RCGb #gov20 #egov", 
+            "from_user_name": "BIconnections", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1866862979/50519_388209157862059_947380685_n_normal.jpg", 
+            "id": 302121343632146432, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 14401102, 
+                        "indices": [
+                            3, 
+                            15
+                        ], 
+                        "id_str": "14401102", 
+                        "screen_name": "GovDelivery", 
+                        "name": "GovDelivery"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            20, 
+                            28
+                        ], 
+                        "text": "bigdata"
+                    }, 
+                    {
+                        "indices": [
+                            121, 
+                            127
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            128, 
+                            133
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/MbJ1RCGb", 
+                        "indices": [
+                            100, 
+                            120
+                        ], 
+                        "expanded_url": "http://bit.ly/Vfv0x5", 
+                        "display_url": "bit.ly/Vfv0x5"
+                    }
+                ]
+            }, 
+            "id_str": "302121343632146432", 
+            "from_user": "biconnections", 
+            "from_user_id": 511740616, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 18:25:16 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1058236551/Lg_bubble_png_normal.png", 
+            "from_user_id_str": "14401102", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "Is #bigdata essential or the latest marketing-driven buzz word? | Reach The Public http://t.co/MbJ1RCGb #gov20 #egov", 
+            "from_user_name": "GovDelivery", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1058236551/Lg_bubble_png_normal.png", 
+            "id": 302120055116820482, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            3, 
+                            11
+                        ], 
+                        "text": "bigdata"
+                    }, 
+                    {
+                        "indices": [
+                            104, 
+                            110
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            111, 
+                            116
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/MbJ1RCGb", 
+                        "indices": [
+                            83, 
+                            103
+                        ], 
+                        "expanded_url": "http://bit.ly/Vfv0x5", 
+                        "display_url": "bit.ly/Vfv0x5"
+                    }
+                ]
+            }, 
+            "id_str": "302120055116820482", 
+            "from_user": "GovDelivery", 
+            "from_user_id": 14401102, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 18:20:08 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Really support pybabel in buildout.: m buildout.cfg\n\n      Really support pybabel in b... http://t.co/MILU0gZw #Euphorie #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302112727181189121, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            121, 
+                            130
+                        ], 
+                        "text": "Euphorie"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/MILU0gZw", 
+                        "indices": [
+                            100, 
+                            120
+                        ], 
+                        "expanded_url": "http://bit.ly/12Ffms5", 
+                        "display_url": "bit.ly/12Ffms5"
+                    }
+                ]
+            }, 
+            "id_str": "302112727181189121", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 17:51:01 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1159383726/pl_normal.jpg", 
+            "from_user_id_str": "206131333", 
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;", 
+            "text": "RT @TechChange: Obama to hang out with Google Today at 4:30 EST http://t.co/v7UUS2XH #ObamaHangOut #eGov", 
+            "from_user_name": "Pals Masaku", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1159383726/pl_normal.jpg", 
+            "id": 302111259195748352, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 124512853, 
+                        "indices": [
+                            3, 
+                            14
+                        ], 
+                        "id_str": "124512853", 
+                        "screen_name": "TechChange", 
+                        "name": "TechChange"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            85, 
+                            98
+                        ], 
+                        "text": "ObamaHangOut"
+                    }, 
+                    {
+                        "indices": [
+                            99, 
+                            104
+                        ], 
+                        "text": "eGov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/v7UUS2XH", 
+                        "indices": [
+                            64, 
+                            84
+                        ], 
+                        "expanded_url": "http://j.mp/XbnrSW", 
+                        "display_url": "j.mp/XbnrSW"
+                    }
+                ]
+            }, 
+            "id_str": "302111259195748352", 
+            "from_user": "palsmks", 
+            "from_user_id": 206131333, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 17:45:11 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2601773755/me_normal.jpg", 
+            "from_user_id_str": "82574128", 
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot;&gt;Twitter for BlackBerry\u00ae&lt;/a&gt;", 
+            "text": "RT @TechChange: Obama to hang out with Google Today at 4:30 EST http://t.co/T3zpwrl9 #ObamaHangOut #eGov", 
+            "from_user_name": "Azaadi", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2601773755/me_normal.jpg", 
+            "id": 302110961685377026, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 124512853, 
+                        "indices": [
+                            3, 
+                            14
+                        ], 
+                        "id_str": "124512853", 
+                        "screen_name": "TechChange", 
+                        "name": "TechChange"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            85, 
+                            98
+                        ], 
+                        "text": "ObamaHangOut"
+                    }, 
+                    {
+                        "indices": [
+                            99, 
+                            104
+                        ], 
+                        "text": "eGov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/T3zpwrl9", 
+                        "indices": [
+                            64, 
+                            84
+                        ], 
+                        "expanded_url": "http://j.mp/XbnrSW", 
+                        "display_url": "j.mp/XbnrSW"
+                    }
+                ]
+            }, 
+            "id_str": "302110961685377026", 
+            "from_user": "AmiFromIndia", 
+            "from_user_id": 82574128, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 17:44:00 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/893303719/twitterdisplay_normal.png", 
+            "from_user_id_str": "124512853", 
+            "source": "&lt;a href=&quot;http://tapbots.com/software/tweetbot/mac&quot;&gt;Tweetbot for Mac&lt;/a&gt;", 
+            "text": "Obama to hang out with Google Today at 4:30 EST http://t.co/T3zpwrl9 #ObamaHangOut #eGov", 
+            "from_user_name": "TechChange", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/893303719/twitterdisplay_normal.png", 
+            "id": 302110846539165696, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            69, 
+                            82
+                        ], 
+                        "text": "ObamaHangOut"
+                    }, 
+                    {
+                        "indices": [
+                            83, 
+                            88
+                        ], 
+                        "text": "eGov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/T3zpwrl9", 
+                        "indices": [
+                            48, 
+                            68
+                        ], 
+                        "expanded_url": "http://j.mp/XbnrSW", 
+                        "display_url": "j.mp/XbnrSW"
+                    }
+                ]
+            }, 
+            "id_str": "302110846539165696", 
+            "from_user": "TechChange", 
+            "from_user_id": 124512853, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 17:43:33 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2096289009/me2_normal.jpg", 
+            "from_user_id_str": "378695629", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "Is #bigdata essential or the latest marketing-driven buzz word? | Reach The Public http://t.co/vKXNVK8d #gov20 #egov", 
+            "from_user_name": "Mary Yang", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2096289009/me2_normal.jpg", 
+            "id": 302089846640488449, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            3, 
+                            11
+                        ], 
+                        "text": "bigdata"
+                    }, 
+                    {
+                        "indices": [
+                            104, 
+                            110
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            111, 
+                            116
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/vKXNVK8d", 
+                        "indices": [
+                            83, 
+                            103
+                        ], 
+                        "expanded_url": "http://bit.ly/Vfv0x5", 
+                        "display_url": "bit.ly/Vfv0x5"
+                    }
+                ]
+            }, 
+            "id_str": "302089846640488449", 
+            "from_user": "marcom_mary", 
+            "from_user_id": 378695629, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 16:20:06 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Add test part to buildout.: m buildout.cfg\n\n      Add test part to buildout. http://t.co/n21u26X9 #Euphorie #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302089179981049856, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            108, 
+                            117
+                        ], 
+                        "text": "Euphorie"
+                    }, 
+                    {
+                        "indices": [
+                            118, 
+                            123
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/n21u26X9", 
+                        "indices": [
+                            87, 
+                            107
+                        ], 
+                        "expanded_url": "http://bit.ly/12EOgBB", 
+                        "display_url": "bit.ly/12EOgBB"
+                    }
+                ]
+            }, 
+            "id_str": "302089179981049856", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 16:17:27 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3024392936/d843e1f405951185f80374db75c6b65f_normal.jpeg", 
+            "from_user_id_str": "927913633", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "#PlainLanguage matters. We are a \u201cgov\u2019t of the people, by the people, for the people\u201d \u2013 Get them to start talking like people! #eGov", 
+            "from_user_name": "Notice and Comment", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/3024392936/d843e1f405951185f80374db75c6b65f_normal.jpeg", 
+            "id": 302087491652050944, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            14
+                        ], 
+                        "text": "PlainLanguage"
+                    }, 
+                    {
+                        "indices": [
+                            127, 
+                            132
+                        ], 
+                        "text": "eGov"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "id_str": "302087491652050944", 
+            "from_user": "NoticeComment", 
+            "from_user_id": 927913633, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 16:10:45 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1750642940/photo_normal.JPG", 
+            "from_user_id_str": "30280483", 
+            "source": "&lt;a href=&quot;http://twitter.com/tweetbutton&quot;&gt;Tweet Button&lt;/a&gt;", 
+            "text": "Mobile Gov for Valentine's Day! - http://t.co/SW8KD2a9 #digitalgov #egov #gov20", 
+            "from_user_name": "Bernie Lubran", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1750642940/photo_normal.JPG", 
+            "id": 302086858135973888, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            55, 
+                            66
+                        ], 
+                        "text": "digitalgov"
+                    }, 
+                    {
+                        "indices": [
+                            67, 
+                            72
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            73, 
+                            79
+                        ], 
+                        "text": "gov20"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/SW8KD2a9", 
+                        "indices": [
+                            34, 
+                            54
+                        ], 
+                        "expanded_url": "http://howtomobile.apps.gov/2013/02/14/mobile-gov-for-valentines-day/", 
+                        "display_url": "howtomobile.apps.gov/2013/02/14/mob\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "302086858135973888", 
+            "from_user": "bernielubran", 
+            "from_user_id": 30280483, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 16:08:14 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1133816248/govbubble_png_normal.png", 
+            "from_user_id_str": "196531453", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "Is #bigdata essential or the latest marketing-driven buzz word? | Reach The Public http://t.co/8Mccmgr6 #gov20 #egov", 
+            "from_user_name": "GovDeliveryUK ", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1133816248/govbubble_png_normal.png", 
+            "id": 302086268404244480, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            3, 
+                            11
+                        ], 
+                        "text": "bigdata"
+                    }, 
+                    {
+                        "indices": [
+                            104, 
+                            110
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            111, 
+                            116
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/8Mccmgr6", 
+                        "indices": [
+                            83, 
+                            103
+                        ], 
+                        "expanded_url": "http://bit.ly/Vfv0x5", 
+                        "display_url": "bit.ly/Vfv0x5"
+                    }
+                ]
+            }, 
+            "id_str": "302086268404244480", 
+            "from_user": "GovDeliveryUK", 
+            "from_user_id": 196531453, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 16:05:53 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Revision 10544: Added access token grant flow. Reworked handling of exceptions that occ... http://t.co/DE0ZdrgO #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302086095800242177, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            122, 
+                            130
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/DE0ZdrgO", 
+                        "indices": [
+                            101, 
+                            121
+                        ], 
+                        "expanded_url": "http://bit.ly/VfW3Io", 
+                        "display_url": "bit.ly/VfW3Io"
+                    }
+                ]
+            }, 
+            "id_str": "302086095800242177", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 16:05:12 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1639911654/kalpana_normal.jpg", 
+            "from_user_id_str": "38677367", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "Impressive! MT @DubaieGov Over 90% satisfaction rate for public with #dubaigov online services.  http://t.co/6TryzQI3 #citizen #egov", 
+            "from_user_name": "kalpana chauhan", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/1639911654/kalpana_normal.jpg", 
+            "id": 302066966401781760, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 79970951, 
+                        "indices": [
+                            15, 
+                            25
+                        ], 
+                        "id_str": "79970951", 
+                        "screen_name": "DubaieGov", 
+                        "name": "Dubai eGovernment"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            69, 
+                            78
+                        ], 
+                        "text": "dubaigov"
+                    }, 
+                    {
+                        "indices": [
+                            118, 
+                            126
+                        ], 
+                        "text": "citizen"
+                    }, 
+                    {
+                        "indices": [
+                            127, 
+                            132
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/6TryzQI3", 
+                        "indices": [
+                            97, 
+                            117
+                        ], 
+                        "expanded_url": "http://gulfnews.com/business/general/egovernment-survey-showed-90-satisfaction-rate-1.1144509", 
+                        "display_url": "gulfnews.com/business/gener\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "302066966401781760", 
+            "from_user": "kalpanachauhan", 
+            "from_user_id": 38677367, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 14:49:11 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Revision 10543: [Plone] Adjusting font size used in TinyMCE editor.: Changed Paths:\n \u00a0\u00a0... http://t.co/2alJvvKX #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302065865329872896, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            122, 
+                            130
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/2alJvvKX", 
+                        "indices": [
+                            101, 
+                            121
+                        ], 
+                        "expanded_url": "http://bit.ly/Vfv8N4", 
+                        "display_url": "bit.ly/Vfv8N4"
+                    }
+                ]
+            }, 
+            "id_str": "302065865329872896", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 14:44:49 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Revision 10541: [Portal.Theme] UI updates for default/Kenya theme and fixing contextMen... http://t.co/V6dDwkxV #Bungeni #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302056917906358273, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            122, 
+                            130
+                        ], 
+                        "text": "Bungeni"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/V6dDwkxV", 
+                        "indices": [
+                            101, 
+                            121
+                        ], 
+                        "expanded_url": "http://bit.ly/X7c7sX", 
+                        "display_url": "bit.ly/X7c7sX"
+                    }
+                ]
+            }, 
+            "id_str": "302056917906358273", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 14:09:15 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "from_user_id_str": "562893716", 
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;", 
+            "text": "#PloneGov Remove harmful body class.: m src/osha/oira/client/templates/report_landing.pt\n\n      ... http://t.co/YWAGjTMK #Euphorie #egov", 
+            "from_user_name": "PloneGov Community", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2164736409/PloneGov1_normal.jpg", 
+            "id": 302042484517769216, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            9
+                        ], 
+                        "text": "PloneGov"
+                    }, 
+                    {
+                        "indices": [
+                            121, 
+                            130
+                        ], 
+                        "text": "Euphorie"
+                    }, 
+                    {
+                        "indices": [
+                            131, 
+                            136
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/YWAGjTMK", 
+                        "indices": [
+                            100, 
+                            120
+                        ], 
+                        "expanded_url": "http://bit.ly/12DTg9w", 
+                        "display_url": "bit.ly/12DTg9w"
+                    }
+                ]
+            }, 
+            "id_str": "302042484517769216", 
+            "from_user": "PloneGov", 
+            "from_user_id": 562893716, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 13:11:54 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }, 
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2882756523/8e93cf8c9290891c1fe79aece3486b72_normal.jpeg", 
+            "from_user_id_str": "138690086", 
+            "source": "&lt;a href=&quot;http://www.tweetedtimes.com&quot;&gt;The Tweeted Times&lt;/a&gt;", 
+            "text": "#oGov #eGov #AAPP news http://t.co/AczcA9Do - top stories by LNdata, _opendata, dcabo", 
+            "from_user_name": "Gabriel Navarro", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2882756523/8e93cf8c9290891c1fe79aece3486b72_normal.jpeg", 
+            "id": 302039508453564418, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            5
+                        ], 
+                        "text": "oGov"
+                    }, 
+                    {
+                        "indices": [
+                            6, 
+                            11
+                        ], 
+                        "text": "eGov"
+                    }, 
+                    {
+                        "indices": [
+                            12, 
+                            17
+                        ], 
+                        "text": "AAPP"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/AczcA9Do", 
+                        "indices": [
+                            23, 
+                            43
+                        ], 
+                        "expanded_url": "http://tweetedtimes.com/kuunga/o-government", 
+                        "display_url": "tweetedtimes.com/kuunga/o-gover\u2026"
+                    }
+                ]
+            }, 
+            "id_str": "302039508453564418", 
+            "from_user": "kuunga", 
+            "from_user_id": 138690086, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Thu, 14 Feb 2013 13:00:05 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 0, 
+    "results_per_page": 100, 
+    "time": "19:39", 
+    "date": "02-21-2013", 
+    "query": "%23EGov", 
+    "max_id": 304674496969846784, 
+    "page": 3
+}

@@ -1,7 +1,0 @@
-bcp
-dhs
-iaem
-smem
-nema
-disasters
-superbowl

@@ -1,4 +1,0 @@
-p2p
-democracy
-gov20
-locgov

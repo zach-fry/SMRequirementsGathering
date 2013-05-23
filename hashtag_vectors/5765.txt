@@ -1,6 +1,0 @@
-us
-nemo
-health
-wx
-news
-lifesupportequip

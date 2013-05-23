@@ -1,4 +1,0 @@
-uta
-tcu
-smu
-bhm

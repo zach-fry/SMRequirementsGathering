@@ -1,4 +1,0 @@
-ibm
-drie
-smem
-disasterrecovery

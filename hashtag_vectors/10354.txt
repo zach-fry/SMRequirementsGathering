@@ -1,4 +1,0 @@
-media
-sm
-arab
-politics

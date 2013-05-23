@@ -1,6 +1,0 @@
-wx
-alert
-paris
-flights
-snow
-airtraffic

@@ -1,7 +1,0 @@
-smem
-hsem
-iaem
-uasi
-nema
-dhs
-fema

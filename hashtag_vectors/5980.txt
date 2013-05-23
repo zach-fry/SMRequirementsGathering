@@ -1,8 +1,0 @@
-nemo
-boston
-mawx
-nemo
-blizzard
-snow
-wx
-weather

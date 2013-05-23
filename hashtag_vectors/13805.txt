@@ -1,3 +1,0 @@
-esri
-webmap
-smem

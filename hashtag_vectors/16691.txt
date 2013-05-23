@@ -1,2 +1,0 @@
-ndptc
-smemchat

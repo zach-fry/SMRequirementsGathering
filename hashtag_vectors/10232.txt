@@ -1,4 +1,0 @@
-datamining
-privacy
-dataviz
-sm

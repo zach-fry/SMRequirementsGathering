@@ -1,4 +1,0 @@
-bigdata
-sm
-socialmedia
-hcsm

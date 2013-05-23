@@ -1,0 +1,551 @@
+{
+    "links": [
+        {
+            "source": 0, 
+            "target": 0, 
+            "value": "2"
+        }, 
+        {
+            "source": 1, 
+            "target": 51, 
+            "value": "30"
+        }, 
+        {
+            "source": 2, 
+            "target": 99, 
+            "value": "2"
+        }, 
+        {
+            "source": 3, 
+            "target": 51, 
+            "value": "11"
+        }, 
+        {
+            "source": 4, 
+            "target": 48, 
+            "value": "17"
+        }, 
+        {
+            "source": 5, 
+            "target": 6, 
+            "value": "1146"
+        }, 
+        {
+            "source": 7, 
+            "target": 68, 
+            "value": "18"
+        }, 
+        {
+            "source": 8, 
+            "target": 20, 
+            "value": "50"
+        }, 
+        {
+            "source": 10, 
+            "target": 68, 
+            "value": "18"
+        }, 
+        {
+            "source": 12, 
+            "target": 51, 
+            "value": "1"
+        }, 
+        {
+            "source": 13, 
+            "target": 30, 
+            "value": "2"
+        }, 
+        {
+            "source": 15, 
+            "target": 68, 
+            "value": "34"
+        }, 
+        {
+            "source": 18, 
+            "target": 51, 
+            "value": "12"
+        }, 
+        {
+            "source": 19, 
+            "target": 67, 
+            "value": "2"
+        }, 
+        {
+            "source": 22, 
+            "target": 24, 
+            "value": "158"
+        }, 
+        {
+            "source": 99, 
+            "target": 25, 
+            "value": "1"
+        }, 
+        {
+            "source": 29, 
+            "target": 56, 
+            "value": "36"
+        }, 
+        {
+            "source": 30, 
+            "target": 30, 
+            "value": "2"
+        }, 
+        {
+            "source": 37, 
+            "target": 74, 
+            "value": "6"
+        }, 
+        {
+            "source": 38, 
+            "target": 85, 
+            "value": "1"
+        }, 
+        {
+            "source": 39, 
+            "target": 56, 
+            "value": "3"
+        }, 
+        {
+            "source": 40, 
+            "target": 93, 
+            "value": "4"
+        }, 
+        {
+            "source": 41, 
+            "target": 79, 
+            "value": "29"
+        }, 
+        {
+            "source": 46, 
+            "target": 47, 
+            "value": "84"
+        }, 
+        {
+            "source": 56, 
+            "target": 51, 
+            "value": "2"
+        }, 
+        {
+            "source": 55, 
+            "target": 68, 
+            "value": "1"
+        }, 
+        {
+            "source": 57, 
+            "target": 86, 
+            "value": "32"
+        }, 
+        {
+            "source": 61, 
+            "target": 80, 
+            "value": "28"
+        }, 
+        {
+            "source": 88, 
+            "target": 71, 
+            "value": "2"
+        }
+    ], 
+    "nodes": [
+        {
+            "group": 5, 
+            "name": "wx"
+        }, 
+        {
+            "group": 12, 
+            "name": "sm"
+        }, 
+        {
+            "group": 0, 
+            "name": "em"
+        }, 
+        {
+            "group": 2, 
+            "name": "smem"
+        }, 
+        {
+            "group": 15, 
+            "name": "gov20"
+        }, 
+        {
+            "group": 5, 
+            "name": "wv"
+        }, 
+        {
+            "group": 5, 
+            "name": "wvwx"
+        }, 
+        {
+            "group": 5, 
+            "name": "news"
+        }, 
+        {
+            "group": 12, 
+            "name": "socialmedia"
+        }, 
+        {
+            "group": 5, 
+            "name": "weather"
+        }, 
+        {
+            "group": 5, 
+            "name": "blizzard"
+        }, 
+        {
+            "group": 13, 
+            "name": "egov"
+        }, 
+        {
+            "group": 15, 
+            "name": "opengov"
+        }, 
+        {
+            "group": 7, 
+            "name": "smemchat"
+        }, 
+        {
+            "group": 9, 
+            "name": "hsem"
+        }, 
+        {
+            "group": 5, 
+            "name": "nemo"
+        }, 
+        {
+            "group": 5, 
+            "name": "ncwx"
+        }, 
+        {
+            "group": 5, 
+            "name": "us"
+        }, 
+        {
+            "group": 15, 
+            "name": "opendata"
+        }, 
+        {
+            "group": 12, 
+            "name": "marketing"
+        }, 
+        {
+            "group": 12, 
+            "name": "twitter"
+        }, 
+        {
+            "group": 5, 
+            "name": "snow"
+        }, 
+        {
+            "group": 5, 
+            "name": "va"
+        }, 
+        {
+            "group": 12, 
+            "name": "smm"
+        }, 
+        {
+            "group": 5, 
+            "name": "vawx"
+        }, 
+        {
+            "group": 4, 
+            "name": "uasi"
+        }, 
+        {
+            "group": 3, 
+            "name": "nema"
+        }, 
+        {
+            "group": 12, 
+            "name": "emilyowensmd"
+        }, 
+        {
+            "group": 12, 
+            "name": "smallville"
+        }, 
+        {
+            "group": 12, 
+            "name": "facebook"
+        }, 
+        {
+            "group": 5, 
+            "name": "tornado"
+        }, 
+        {
+            "group": 0, 
+            "name": "bfp"
+        }, 
+        {
+            "group": 1, 
+            "name": "ogov"
+        }, 
+        {
+            "group": 2, 
+            "name": "earthquake"
+        }, 
+        {
+            "group": 2, 
+            "name": "canvost"
+        }, 
+        {
+            "group": 10, 
+            "name": "iaem"
+        }, 
+        {
+            "group": 2, 
+            "name": "usgs"
+        }, 
+        {
+            "group": 15, 
+            "name": "digitalgov"
+        }, 
+        {
+            "group": 2, 
+            "name": "femathinktank"
+        }, 
+        {
+            "group": 12, 
+            "name": "business"
+        }, 
+        {
+            "group": 0, 
+            "name": "love"
+        }, 
+        {
+            "group": 12, 
+            "name": "mgmt"
+        }, 
+        {
+            "group": 5, 
+            "name": "txwx"
+        }, 
+        {
+            "group": 4, 
+            "name": "dhs"
+        }, 
+        {
+            "group": 2, 
+            "name": "fema"
+        }, 
+        {
+            "group": 8, 
+            "name": "coems"
+        }, 
+        {
+            "group": 5, 
+            "name": "forecast"
+        }, 
+        {
+            "group": 5, 
+            "name": "uswx"
+        }, 
+        {
+            "group": 12, 
+            "name": "innovation"
+        }, 
+        {
+            "group": 2, 
+            "name": "vost"
+        }, 
+        {
+            "group": 5, 
+            "name": "nyc"
+        }, 
+        {
+            "group": 12, 
+            "name": "tech"
+        }, 
+        {
+            "group": 5, 
+            "name": "newengland"
+        }, 
+        {
+            "group": 12, 
+            "name": "everypost"
+        }, 
+        {
+            "group": 12, 
+            "name": "social"
+        }, 
+        {
+            "group": 5, 
+            "name": "mswx"
+        }, 
+        {
+            "group": 12, 
+            "name": "media"
+        }, 
+        {
+            "group": 12, 
+            "name": "oi"
+        }, 
+        {
+            "group": 0, 
+            "name": "embarrassing"
+        }, 
+        {
+            "group": 12, 
+            "name": "health"
+        }, 
+        {
+            "group": 15, 
+            "name": "newschallenge"
+        }, 
+        {
+            "group": 5, 
+            "name": "boston"
+        }, 
+        {
+            "group": 5, 
+            "name": "travel"
+        }, 
+        {
+            "group": 5, 
+            "name": "onstorm"
+        }, 
+        {
+            "group": 12, 
+            "name": "fb"
+        }, 
+        {
+            "group": 12, 
+            "name": "jobs"
+        }, 
+        {
+            "group": 5, 
+            "name": "severe"
+        }, 
+        {
+            "group": 12, 
+            "name": "pr"
+        }, 
+        {
+            "group": 2, 
+            "name": "nywx"
+        }, 
+        {
+            "group": 15, 
+            "name": "bigdata"
+        }, 
+        {
+            "group": 13, 
+            "name": "plonegov"
+        }, 
+        {
+            "group": 12, 
+            "name": "tips"
+        }, 
+        {
+            "group": 5, 
+            "name": "disaster"
+        }, 
+        {
+            "group": 5, 
+            "name": "ms"
+        }, 
+        {
+            "group": 12, 
+            "name": "mobile"
+        }, 
+        {
+            "group": 2, 
+            "name": "sandy"
+        }, 
+        {
+            "group": 15, 
+            "name": "citizenville"
+        }, 
+        {
+            "group": 6, 
+            "name": "firstresponder"
+        }, 
+        {
+            "group": 12, 
+            "name": "seo"
+        }, 
+        {
+            "group": 12, 
+            "name": "mktg"
+        }, 
+        {
+            "group": 5, 
+            "name": "mawx"
+        }, 
+        {
+            "group": 13, 
+            "name": "bungeni"
+        }, 
+        {
+            "group": 5, 
+            "name": "roc"
+        }, 
+        {
+            "group": 2, 
+            "name": "smilecon"
+        }, 
+        {
+            "group": 5, 
+            "name": "alwx"
+        }, 
+        {
+            "group": 2, 
+            "name": "msgu"
+        }, 
+        {
+            "group": 12, 
+            "name": "strategy"
+        }, 
+        {
+            "group": 12, 
+            "name": "ecommerce"
+        }, 
+        {
+            "group": 12, 
+            "name": "smo"
+        }, 
+        {
+            "group": 2, 
+            "name": "emcomm"
+        }, 
+        {
+            "group": 5, 
+            "name": "mesodiscussion"
+        }, 
+        {
+            "group": 15, 
+            "name": "cto"
+        }, 
+        {
+            "group": 2, 
+            "name": "fdem"
+        }, 
+        {
+            "group": 0, 
+            "name": "me"
+        }, 
+        {
+            "group": 12, 
+            "name": "smansaproudigy"
+        }, 
+        {
+            "group": 2, 
+            "name": "disasters"
+        }, 
+        {
+            "group": 5, 
+            "name": "ff"
+        }, 
+        {
+            "group": 12, 
+            "name": "linkbuilding"
+        }, 
+        {
+            "group": 12, 
+            "name": "serp"
+        }, 
+        {
+            "group": 2, 
+            "name": "emergency"
+        }
+    ]
+}

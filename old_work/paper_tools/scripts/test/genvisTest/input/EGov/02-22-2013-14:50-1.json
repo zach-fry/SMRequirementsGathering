@@ -1,0 +1,71 @@
+{
+    "completed_in": 0.031, 
+    "max_id_str": "304966040197148673", 
+    "since_id_str": "304965971066646529", 
+    "refresh_url": "?since_id=304966040197148673&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2907285924/7a8fdffbe8842854fd02ca3b8763b487_normal.jpeg", 
+            "from_user_id_str": "28487444", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "RT @dfletcher: Hey, did you catch the launch of StateScoop? http://t.co/2ztX4gXXdX #egov", 
+            "from_user_name": "Robin Withall", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2907285924/7a8fdffbe8842854fd02ca3b8763b487_normal.jpeg", 
+            "id": 304966040197148673, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 11993412, 
+                        "indices": [
+                            3, 
+                            13
+                        ], 
+                        "id_str": "11993412", 
+                        "screen_name": "dfletcher", 
+                        "name": "dfletcher"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            83, 
+                            88
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/2ztX4gXXdX", 
+                        "indices": [
+                            60, 
+                            82
+                        ], 
+                        "expanded_url": "http://statescoop.com/", 
+                        "display_url": "statescoop.com"
+                    }
+                ]
+            }, 
+            "id_str": "304966040197148673", 
+            "from_user": "rwithall", 
+            "from_user_id": 28487444, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 14:49:04 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304965971066646529, 
+    "results_per_page": 100, 
+    "time": "14:50", 
+    "date": "02-22-2013", 
+    "query": "%23EGov", 
+    "max_id": 304966040197148673, 
+    "page": 1
+}

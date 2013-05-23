@@ -1,5 +1,0 @@
-mobilegov
-egov
-cloud
-identification
-followerpower

@@ -1,4 +1,0 @@
-smem
-hsem
-crisistech
-crisisdata

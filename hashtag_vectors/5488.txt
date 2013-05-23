@@ -1,5 +1,0 @@
-weather
-wx
-snow
-lol
-nemo

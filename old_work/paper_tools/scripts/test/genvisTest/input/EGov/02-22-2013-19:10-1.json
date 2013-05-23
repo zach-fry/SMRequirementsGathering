@@ -1,0 +1,105 @@
+{
+    "completed_in": 0.017999999999999999, 
+    "max_id_str": "305031555137552384", 
+    "since_id_str": "305031401940598784", 
+    "refresh_url": "?since_id=305031555137552384&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/533552107/sugar_cane_normal.jpg", 
+            "from_user_id_str": "31860617", 
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;", 
+            "text": "RT @marquartcp: RT @rwithall: RT @ohmygov: Feds Roll Out Social Media Metrics, API http://t.co/MuOaZIkVtI #gov20 #digitalgov #egov", 
+            "from_user_name": "Lia", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/533552107/sugar_cane_normal.jpg", 
+            "id": 305031555137552384, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 897626185, 
+                        "indices": [
+                            3, 
+                            14
+                        ], 
+                        "id_str": "897626185", 
+                        "screen_name": "MarquartCP", 
+                        "name": "Angie Marquart"
+                    }, 
+                    {
+                        "id": 28487444, 
+                        "indices": [
+                            19, 
+                            28
+                        ], 
+                        "id_str": "28487444", 
+                        "screen_name": "rwithall", 
+                        "name": "Robin Withall"
+                    }, 
+                    {
+                        "id": 19805776, 
+                        "indices": [
+                            33, 
+                            41
+                        ], 
+                        "id_str": "19805776", 
+                        "screen_name": "ohmygov", 
+                        "name": "OhMyGov"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            106, 
+                            112
+                        ], 
+                        "text": "gov20"
+                    }, 
+                    {
+                        "indices": [
+                            113, 
+                            124
+                        ], 
+                        "text": "digitalgov"
+                    }, 
+                    {
+                        "indices": [
+                            125, 
+                            130
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/MuOaZIkVtI", 
+                        "indices": [
+                            83, 
+                            105
+                        ], 
+                        "expanded_url": "http://bit.ly/XOJz58", 
+                        "display_url": "bit.ly/XOJz58"
+                    }
+                ]
+            }, 
+            "id_str": "305031555137552384", 
+            "from_user": "Lia_Bia", 
+            "from_user_id": 31860617, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 19:09:24 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 305031401940598784, 
+    "results_per_page": 100, 
+    "time": "19:10", 
+    "date": "02-22-2013", 
+    "query": "%23EGov", 
+    "max_id": 305031555137552384, 
+    "page": 1
+}

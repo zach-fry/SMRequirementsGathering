@@ -1,0 +1,68 @@
+{
+    "completed_in": 0.014, 
+    "max_id_str": "305065790644826113", 
+    "since_id_str": "305065625104048129", 
+    "refresh_url": "?since_id=305065790644826113&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2627610645/dsl7ve59ug4q5obtxbck_normal.png", 
+            "from_user_id_str": "14690021", 
+            "source": "&lt;a href=&quot;http://measuredvoice.com/&quot;&gt;Measured Voice&lt;/a&gt;", 
+            "text": "The @PCISSC would benefit from an #egov view of payment security. Elect NIC\u2019s Chief Security Officer Jayne Holland to the #PCIBOA.", 
+            "from_user_name": "NIC Inc. | EGOV.com", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/2627610645/dsl7ve59ug4q5obtxbck_normal.png", 
+            "id": 305065790644826113, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 20256309, 
+                        "indices": [
+                            4, 
+                            11
+                        ], 
+                        "id_str": "20256309", 
+                        "screen_name": "PCISSC", 
+                        "name": "PCI SSC"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            34, 
+                            39
+                        ], 
+                        "text": "egov"
+                    }, 
+                    {
+                        "indices": [
+                            122, 
+                            129
+                        ], 
+                        "text": "PCIBOA"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "id_str": "305065790644826113", 
+            "from_user": "EGOV", 
+            "from_user_id": 14690021, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 21:25:26 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 305065625104048129, 
+    "results_per_page": 100, 
+    "time": "21:26", 
+    "date": "02-22-2013", 
+    "query": "%23EGov", 
+    "max_id": 305065790644826113, 
+    "page": 1
+}

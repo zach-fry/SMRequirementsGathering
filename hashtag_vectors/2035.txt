@@ -1,5 +1,0 @@
-oceans
-wx
-climate
-food
-marine

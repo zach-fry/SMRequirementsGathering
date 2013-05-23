@@ -1,0 +1,60 @@
+{
+    "completed_in": 0.027, 
+    "max_id_str": "304964830643757056", 
+    "since_id_str": "304964714864193536", 
+    "refresh_url": "?since_id=304964830643757056&q=%23EGov&lang=en&result_type=recent&include_entities=1", 
+    "results": [
+        {
+            "iso_language_code": "en", 
+            "to_user_name": null, 
+            "to_user_id_str": "0", 
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/91006258/df3_normal.jpg", 
+            "from_user_id_str": "11993412", 
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;", 
+            "text": "Hey, did you catch the launch of StateScoop? http://t.co/2ztX4gXXdX #egov", 
+            "from_user_name": "dfletcher", 
+            "profile_image_url": "http://a0.twimg.com/profile_images/91006258/df3_normal.jpg", 
+            "id": 304964830643757056, 
+            "to_user": null, 
+            "entities": {
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            68, 
+                            73
+                        ], 
+                        "text": "egov"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/2ztX4gXXdX", 
+                        "indices": [
+                            45, 
+                            67
+                        ], 
+                        "expanded_url": "http://statescoop.com/", 
+                        "display_url": "statescoop.com"
+                    }
+                ]
+            }, 
+            "id_str": "304964830643757056", 
+            "from_user": "dfletcher", 
+            "from_user_id": 11993412, 
+            "to_user_id": 0, 
+            "geo": null, 
+            "created_at": "Fri, 22 Feb 2013 14:44:16 +0000", 
+            "metadata": {
+                "result_type": "recent"
+            }
+        }
+    ], 
+    "since_id": 304964714864193536, 
+    "results_per_page": 100, 
+    "time": "14:45", 
+    "date": "02-22-2013", 
+    "query": "%23EGov", 
+    "max_id": 304964830643757056, 
+    "page": 1
+}

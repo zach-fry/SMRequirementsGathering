@@ -1,4 +1,0 @@
-twitter
-mobileapps
-sm
-insomnia

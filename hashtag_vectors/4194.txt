@@ -1,5 +1,0 @@
-weather
-us
-wx
-nemo
-news
