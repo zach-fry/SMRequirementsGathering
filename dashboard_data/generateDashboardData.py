@@ -94,7 +94,7 @@ try:
     topics = f_topics.readlines()
     f_topics.close()
 
-    f_output = open('output/mallet_output_wrapper.txt', 'w')
+    f_output = open('output/mallet_output_wrapper.js', 'w')
     f_output.write('var output = "')
     n = len(topics)-1
     i = 0
