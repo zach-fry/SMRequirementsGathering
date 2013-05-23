@@ -1,0 +1,18 @@
+
+
+/old_work/ directory is old work that I did earlier on in the Semester
+    /old_work/topics/mallet has mallet scripts that model both NEMO and Boston Tweets
+    /old_work/twitter_crawler has the python code that wraps the twitter API
+    
+/static_demo/ is all the HTML and JavaScript code for the Dashboard Static Demo
+
+/dashboard_data/ is where all the magic happens for the current version of things as of 5/23
+    /dashboard_data/generateDashboardData.py is python script that gets Tweets from the RDF Store 
+        and converts it into the necessary output for the dashboard
+        should be able to get everything from the comments
+        to run:
+            python generateDashboardData.py
+
+    /dashboard_data/output is where all of the output that gets plugged into the dashboard goes
+    /dashboard_data/mallet is where all of the mallet topic modelling happens
+
