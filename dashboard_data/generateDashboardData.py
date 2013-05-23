@@ -77,7 +77,7 @@ f.write('var times=[')
 n = len(timestamps)-1
 i = 0;
 for k,v in timestamps.iteritems():
-    if i == n: f.write('[%s,%s];\n'%(k,v))
+    if i == n: f.write('[%s,%s]];\n'%(k,v))
     else: 
         f.write('[%s,%s],'%(k,v))
         i += 1
